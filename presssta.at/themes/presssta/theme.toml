@@ -1,0 +1,15 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "presssta"
+license = "MIT"
+licenselink = ""
+description = ""
+homepage = ""
+tags = ["minimalist", "blog", "clean", "simple", "bootstrap"]
+features = ["responsive", "small page size", "google analytics", "cookie consent", "tags"]
+min_version = "0.54.0"
+
+[author]
+  name = "Zachary Betz"
+  homepage = "https://zwbetz.com/"

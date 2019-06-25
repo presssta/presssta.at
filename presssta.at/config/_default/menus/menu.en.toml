@@ -1,10 +1,10 @@
 [[main]]
-name = "Produkt"
-url = "/produkt"
+name = "Product"
+url = "/Product"
 weight = 10
 [[main]]
-name = "Unternehmen"
-url = "/unternehmen"
+name = "Company"
+url = "/Company"
 weight = 20
 [[main]]
 name = "Service & News"
@@ -12,74 +12,74 @@ url = "/service-news"
 weight = 30
 
 [[main]]
-parent = "Produkt"
+parent = "Product"
 name = "Ausschreibungstexte"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/ausschreibungstexte"
 weight = 10
 [[main]]
-parent = "Produkt"
+parent = "Product"
 name = "Anwendung"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/anwendung"
 weight = 20
 [[main]]
-parent = "Produkt"
+parent = "Product"
 name = "FAQs"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/faqs"
 weight = 30
 [[main]]
-parent = "Produkt"
+parent = "Product"
 name = "Technische Daten"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/technische-daten"
 weight = 40
 [[main]]
-parent = "Produkt"
+parent = "Product"
 name = "Anfrage/Bestellung"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/anfrage-bestellung"
 weight = 50
 [[main]]
-parent = "Produkt"
+parent = "Product"
 name = "Bezugsquellen"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/bezugsquellen"
 weight = 60
 
 [[main]]
-parent = "Unternehmen"
+parent = "Company"
 name = "Datenschutz"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/datenschutz"
 weight = 10
 [[main]]
-parent = "Unternehmen"
+parent = "Company"
 name = "Philosophie"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/philosophie"
 weight = 20
 [[main]]
-parent = "Unternehmen"
+parent = "Company"
 name = "Sitemap"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/sitemap"
 weight = 30
 [[main]]
-parent = "Unternehmen"
+parent = "Company"
 name = "Erfinder"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/erfinder"
 weight = 40
 [[main]]
-parent = "Unternehmen"
+parent = "Company"
 name = "Kontakt"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/kontakt"
 weight = 50
 [[main]]
-parent = "Unternehmen"
+parent = "Company"
 name = "Impressum"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/impressum"
