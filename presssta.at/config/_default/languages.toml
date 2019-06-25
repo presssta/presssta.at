@@ -1,0 +1,8 @@
+[en]
+  weight = 2
+  [en.params]
+    description = "English slogan"
+[de]
+  weight = 1
+  [de.params]
+    description = "Schnell. Sicher. Stanzen."

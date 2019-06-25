@@ -1,0 +1,105 @@
+[[main]]
+name = "Produkt"
+url = "/produkt"
+weight = 10
+[[main]]
+name = "Unternehmen"
+url = "/unternehmen"
+weight = 20
+[[main]]
+name = "Service & News"
+url = "/service-news"
+weight = 30
+
+[[main]]
+parent = "Produkt"
+name = "Ausschreibungstexte"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/ausschreibungstexte"
+weight = 10
+[[main]]
+parent = "Produkt"
+name = "Anwendung"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/anwendung"
+weight = 20
+[[main]]
+parent = "Produkt"
+name = "FAQs"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/faqs"
+weight = 30
+[[main]]
+parent = "Produkt"
+name = "Technische Daten"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/technische-daten"
+weight = 40
+[[main]]
+parent = "Produkt"
+name = "Anfrage/Bestellung"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/anfrage-bestellung"
+weight = 50
+[[main]]
+parent = "Produkt"
+name = "Bezugsquellen"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/bezugsquellen"
+weight = 60
+
+[[main]]
+parent = "Unternehmen"
+name = "Datenschutz"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/datenschutz"
+weight = 10
+[[main]]
+parent = "Unternehmen"
+name = "Philosophie"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/philosophie"
+weight = 20
+[[main]]
+parent = "Unternehmen"
+name = "Sitemap"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/sitemap"
+weight = 30
+[[main]]
+parent = "Unternehmen"
+name = "Erfinder"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/erfinder"
+weight = 40
+[[main]]
+parent = "Unternehmen"
+name = "Kontakt"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/kontakt"
+weight = 50
+[[main]]
+parent = "Unternehmen"
+name = "Impressum"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/impressum"
+weight = 60
+
+[[main]]
+parent = "Service & News"
+name = "News"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/news"
+weight = 10
+[[main]]
+parent = "Service & News"
+name = "Presse"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/presse"
+weight = 20
+[[main]]
+parent = "Service & News"
+name = "Downloads"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/downloads"
+weight = 30

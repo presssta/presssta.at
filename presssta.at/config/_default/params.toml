@@ -1,0 +1,11 @@
+[params]
+  logo = "/presssta-logo.svg"
+  customDateFormat = "Jan 2, 2006"
+  showPostSummary = false
+  # googleAnalytics = "UA-123456789-1"
+  # cookieConsent = true
+  includeBootstrapJs = true
+  faviconSafariPinnedTabColor = "#5bbad5"
+  faviconMsApplicationTileColor = "#da532c"
+  faviconThemeColor = "#ffffff"
+  DefaultContentLanguage = "de"
