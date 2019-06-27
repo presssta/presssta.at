@@ -88,19 +88,19 @@ weight = 60
 [[main]]
 parent = "Service & News"
 name = "News"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "Neues, interessantes & lesensertes"
 url = "/news"
 weight = 10
 [[main]]
 parent = "Service & News"
 name = "Presse"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "Berichte aus Presse und anderen Medien"
 url = "/presse"
 weight = 20
 [[main]]
 parent = "Service & News"
 name = "Downloads"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "Welche Magazine sich mit unserem Fach beschäftigen"
 url = "/downloads"
 weight = 30
 

@@ -23,15 +23,30 @@
                               <span>{{ .Name }}</span>
                           </a>
                           {{ if .HasChildren }}
-                          <ul class="sub-menu">
+                          <ul class="subnav">
                             {{ range .Children }}
-                            <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                              <a class="mainnav__sublink" href="{{ .URL | relLangURL }}">
-                                <div class="nav__subname">{{ .Name }}</div>
-                                <div class="nav__subname">{{ .Title }}</div>                              
+                            <li class="subnav__el {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                              <a class="subnav__link" href="{{ .URL | relLangURL }}">
+                                <div class="subnav__name">
+                                  {{ .Name }}
+                                  <div class="subnav__fancy"></div>
+                                </div>
+                                <div class="subnav__title">
+                                  <div class="subnav__titletext">
+                                    {{ .Title }}
+                                  </div>
+                                </div>                              
                               </a>
                             </li>
                             {{ end }}
+                            <li class="subnav__el">
+                              <div class="subnav__link subnav__filler">
+                                <div class="subnav__name">&nbsp;</div>
+                                <div class="subnav__title">
+                                </div>                              
+                              </div>
+                            </li>
+
                           </ul>
                           {{ else }}
                       </li>
