@@ -1,0 +1,8 @@
+{{- $number := .Get "number" -}}
+
+<div class="fact">
+  {{ with $number }}
+  <div class="fact-number">{{ . }}</div>
+  {{ end }}
+  <div class="mb-0 fact-text">{{ .Inner }}</div>
+</div>

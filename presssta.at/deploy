@@ -1,0 +1,8 @@
+#!/bin/sh
+USER=redplanet
+HOST=dagobert
+DIR=/home/redplanet/htdocs/i.notice.at/temp/presssta/   # might sometimes be empty!
+
+hugo -b https://i.notice.at/temp/presssta && rsync -avz --delete public/ ${USER}@${HOST}:${DIR}
+
+exit 0

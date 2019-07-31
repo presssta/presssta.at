@@ -12,48 +12,57 @@
         <div class="header__navs">
           
           <a href="{{ "/" | relLangURL }}">
-            <img src="{{ .Site.Params.logo }}" alt="{{ .Site.Title }} - {{ .Site.Params.description }}" class="logo">          
+            <img src="{{ .Site.Params.logo  | relURL }}" alt="{{ .Site.Title }} - {{ .Site.Params.description }}" class="logo">          
           </a>
           <ul class="mainnav">
               {{ $currentPage := . }}
               {{ range .Site.Menus.main }}
                       <li class="mainnav__el {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                          <a class="mainnav__link" href="{{ .URL | relLangURL }}">
+                          <a class="mainnav__link" href="{{ .URL | absLangURL }}">
                               {{ .Pre }}
                               <span>{{ .Name }}</span>
                           </a>
                           {{ if .HasChildren }}
-                          <ul class="subnav">
-                            {{ range .Children }}
-                            <li class="subnav__el {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                              <a class="subnav__link" href="{{ .URL | relLangURL }}">
-                                <div class="subnav__name">
-                                  {{ .Name }}
-                                  <div class="subnav__fancy"></div>
-                                </div>
-                                <div class="subnav__title">
-                                  <div class="subnav__titletext">
-                                    {{ .Title }}
+                          <div class="subnav-wrp">
+                            <ul class="subnav">
+                              {{ range .Children }}
+                              <li class="subnav__el {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                                <a class="subnav__link" href="{{ .URL | absLangURL }}">
+                                  <div class="subnav__name">
+                                    {{ .Name }}
+                                    <div class="subnav__fancy"></div>
                                   </div>
-                                </div>                              
-                              </a>
-                            </li>
-                            {{ end }}
-                            <li class="subnav__el">
-                              <div class="subnav__link subnav__filler">
-                                <div class="subnav__name">&nbsp;</div>
-                                <div class="subnav__title">
-                                </div>                              
-                              </div>
-                            </li>
+                                  <div class="subnav__title">
+                                    <div class="subnav__titletext">
+                                      {{ .Title }}
+                                    </div>
+                                  </div>                              
+                                </a>
+                              </li>
+                              {{ end }}
+                              <li class="subnav__el">
+                                <div class="subnav__link subnav__filler">
+                                  <div class="subnav__name">&nbsp;</div>
+                                  <div class="subnav__title">
+                                  </div>                              
+                                </div>
+                              </li>
 
-                          </ul>
+                            </ul>
+                          </div>
                           {{ else }}
                       </li>
                   {{ end }}
               {{ end }}
           </ul>    
-          
+          <div class="actionnav">
+            <a href="" class="actionnav__icon">
+              <img src="{{ "/mail.svg" | absURL }}" alt="">
+            </a>
+            <a href="" class="actionnav__icon">
+              <img src="{{ "/share.svg" | absURL }}" alt="">
+            </a>
+          </div>
           <div class="langnav">
           {{- range $key, $lang :=  $.Site.Home.AllTranslations }} 
             {{- if ne $key 0 }}/{{- end -}}

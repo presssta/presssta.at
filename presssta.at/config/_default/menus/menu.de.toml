@@ -15,93 +15,93 @@ weight = 30
 parent = "Produkt"
 name = "Ausschreibungstexte"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/ausschreibungstexte"
+url = "/produkt/ausschreibungstexte"
 weight = 10
 [[main]]
 parent = "Produkt"
 name = "Anwendung"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/anwendung"
+url = "/produkt/anwendung"
 weight = 20
 [[main]]
 parent = "Produkt"
 name = "FAQs"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/faqs"
+url = "/produkt/faqs"
 weight = 30
 [[main]]
 parent = "Produkt"
 name = "Technische Daten"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/technische-daten"
+url = "/produkt/technische-daten"
 weight = 40
 [[main]]
 parent = "Produkt"
 name = "Anfrage/Bestellung"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/anfrage-bestellung"
+url = "/produkt/anfrage-bestellung"
 weight = 50
 [[main]]
 parent = "Produkt"
 name = "Bezugsquellen"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/bezugsquellen"
+url = "/produkt/bezugsquellen"
 weight = 60
 
 [[main]]
 parent = "Unternehmen"
 name = "Datenschutz"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/datenschutz"
+url = "/unternehmen/datenschutz"
 weight = 10
 [[main]]
 parent = "Unternehmen"
 name = "Philosophie"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/philosophie"
+url = "/unternehmen/philosophie"
 weight = 20
 [[main]]
 parent = "Unternehmen"
 name = "Sitemap"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/sitemap"
+url = "/unternehmen/sitemap"
 weight = 30
 [[main]]
 parent = "Unternehmen"
 name = "Erfinder"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/erfinder"
+url = "/unternehmen/erfinder"
 weight = 40
 [[main]]
 parent = "Unternehmen"
 name = "Kontakt"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/kontakt"
+url = "/unternehmen/kontakt"
 weight = 50
 [[main]]
 parent = "Unternehmen"
 name = "Impressum"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/impressum"
+url = "/unternehmen/impressum"
 weight = 60
 
 [[main]]
 parent = "Service & News"
 name = "News"
 title = "Neues, interessantes & lesensertes"
-url = "/news"
+url = "/service-news/news"
 weight = 10
 [[main]]
 parent = "Service & News"
 name = "Presse"
 title = "Berichte aus Presse und anderen Medien"
-url = "/presse"
+url = "/service-news/presse"
 weight = 20
 [[main]]
 parent = "Service & News"
 name = "Downloads"
 title = "Welche Magazine sich mit unserem Fach beschäftigen"
-url = "/downloads"
+url = "/service-news/downloads"
 weight = 30
 
 

@@ -5,14 +5,45 @@
 
 <body>
   {{ partial "nav.html" . }}
+  {{ if .Params.Header }}
+  <div class="bigimage" style="background-image: url({{ .Params.Header | relLangURL }})">
+    {{- if .Params.headline -}}
+    <h1 class="headline">{{ .Params.headline  }}</h1>
+    {{- end -}}
+  </div>
+  {{ else if .Params.slides }}
   
+  <div class="slides">
+    {{ range .Params.slides }}
+    <div class="slide" style="background-image: url({{ .image | relLangURL }})">
+      <div class="slide-text">{{.text}}</div>
+    </div>
+    {{ end }}
+  </div>
+  {{ else }}
+  <div class="nohero">
+  </div>
+  {{ end }}
   <div class="container">
-    <article>
+    <article class="page-content">
       {{ block "main" . }}{{ end }}
     </article>
   </div>
 
   {{ partial "bootstrap-js.html" . }}
+  <!-- TODO  LOCAL JS/CSS -->
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <script>
+  $(document).ready(function(){
+    $('.slides').slick({
+      autoplaySpeed: 4000,
+      prevArrow: '<div class="slick-prev"><img src="{{ "/arrow-left.svg" | absURL }}"></div>',
+      nextArrow: '<div class="slick-next"><img src="{{ "/arrow-right.svg" | absURL }}"></div>'
+    });
+  });
+  </script>
+
   {{ partial "google-analytics-async.html" . }}
   {{ partial "cookie-consent.html" . }}
 </body>

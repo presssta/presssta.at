@@ -6,10 +6,10 @@ license = "MIT"
 licenselink = ""
 description = ""
 homepage = ""
-tags = ["minimalist", "blog", "clean", "simple", "bootstrap"]
+tags = ["custom"]
 features = ["responsive", "small page size", "google analytics", "cookie consent", "tags"]
 min_version = "0.54.0"
 
 [author]
-  name = "Zachary Betz"
-  homepage = "https://zwbetz.com/"
+  name = ""
+  homepage = ""
