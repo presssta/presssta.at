@@ -3,7 +3,7 @@
 
 {{ partial "head.html" . }}
 
-<body>
+<body class="nojs">
   {{ partial "nav.html" . }}
   {{ if .Params.Header }}
   <div class="bigimage" style="background-image: url({{ .Params.Header | relLangURL }})">
@@ -36,10 +36,47 @@
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
   <script>
   $(document).ready(function(){
+    $('body').removeClass('nojs')
+    
+    var mainnavCats = $('.mainnav__el ')
+    mainnavCats.click(function() {
+      if($(this).hasClass('open')) {
+        mainnavCats.removeClass('open')        
+        $(this).addClass('closeaction')
+      } else {
+        mainnavCats.removeClass('open')
+        $(this).addClass('open')
+      }
+    })
+    mainnavCats.hover(function() {
+      if($(this).hasClass('closeaction')) {
+        $(this).removeClass('closeaction')
+      } else {
+        mainnavCats.removeClass('open')
+        $(this).addClass('open')
+      }
+    })
+    $('.nav-redline').click(function() {
+      mainnavCats.removeClass('open')      
+    })
+    
     $('.slides').slick({
       autoplaySpeed: 4000,
       prevArrow: '<div class="slick-prev"><img src="{{ "/arrow-left.svg" | absURL }}"></div>',
       nextArrow: '<div class="slick-next"><img src="{{ "/arrow-right.svg" | absURL }}"></div>'
+    });
+    
+    var allPanels = $('#faqaccordion .faq-answer')
+    allPanels.addClass('collapse');
+    $('#faqaccordion .faq-item:first-child .faq-answer').collapse('show');
+    // for (var p in allPanels) {
+      // console.log(allPanels[p])
+    // }
+    $('#faqaccordion .faq-question').click(function() {
+      allPanels.collapse('hide');
+      console.log($(this).parent().children('.faq-answer'))
+      $(this).parent().children('.faq-answer').collapse('show');
+      return false;
     });
   });
   </script>

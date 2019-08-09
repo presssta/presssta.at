@@ -4,12 +4,18 @@ date = "2014-04-09"
 headline = "Test Headline"
 
 [[slides]]
-text = "Headline Slider"
+text = "Weltneuheit im Trockenbau"
 image = "slider/HB-Start1.jpg"
-
 [[slides]]
-text = "Hallo2"
+text = "Perfekte Vorbereitung für Installationen"
 image = "slider/HB-Start2.jpg"
+[[slides]]
+text = "Ohne Gefährdung Ihrer Mitarbeiter"
+image = "slider/HB-Start3.jpg"
+[[slides]]
+text = "Viel schneller in der Anwendung"
+image = "slider/HB-Start4.jpg"
+
 
 +++   
 
@@ -35,19 +41,19 @@ perfektes rundes Loch zur Durchführung der Installation
 
 {{% cols %}}
 
-{{% imagelink image="Start-3er1.jpg" link="/erfinder" %}}
+{{% imagelink image="Start-3er1.jpg" link="/unternehmen/erfinder" %}}
 Die <br>Erfinder
 {{% /imagelink %}}
 
 ||
 
-{{% imagelink image="Start-3er2.jpg" link="/anwendung" %}}
+{{% imagelink image="Start-3er2.jpg" link="/produkt/anwendung" %}}
 Die <br>Anwendung
 {{% /imagelink %}}
 
 ||
 
-{{% imagelink image="Start-3er3.jpg" link="/technische-daten" %}}
+{{% imagelink image="Start-3er3.jpg" link="/produkt/technische-daten" %}}
 Die <br>Technik
 {{% /imagelink %}}
 

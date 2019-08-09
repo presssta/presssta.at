@@ -35,10 +35,10 @@
 
 
   
-  <link rel="stylesheet" href="https://i.notice.at/temp/presssta/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://i.notice.at/temp/presssta/sass/bootstrap4-custom.min.5adb881d8b25d66aa7df4b83295dd2bc60793723c270b9d286acc5f19ae8ee34.css" />
 
   
-  <link rel="stylesheet" href="https://i.notice.at/temp/presssta/sass/main.min.dcd232525f5be765117c5137c7189a7135649c4f07837ff75993d76f87203234.css" />
+  <link rel="stylesheet" href="https://i.notice.at/temp/presssta/sass/main.min.695d531a6a91984d93556c788992d87a297a910afba3597d7290e96780538260.css" />
 
   
   
@@ -362,7 +362,10 @@
   </div>
 
 </nav>
-  <div class="bigimage" style="background-image: url(/temp/presssta/en)"></div>
+  
+  <div class="nohero">
+  </div>
+  
   <div class="container">
     <article class="page-content">
       
@@ -377,6 +380,33 @@
   
 <script src="https://i.notice.at/temp/presssta/js/jquery-3.3.1.slim.min.js"></script>
 <script src="https://i.notice.at/temp/presssta/js/bootstrap.bundle.min.js"></script>
+
+  
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <script>
+  $(document).ready(function(){
+    $('.slides').slick({
+      autoplaySpeed: 4000,
+      prevArrow: '<div class="slick-prev"><img src="https:\/\/i.notice.at\/arrow-left.svg"></div>',
+      nextArrow: '<div class="slick-next"><img src="https:\/\/i.notice.at\/arrow-right.svg"></div>'
+    });
+    
+    var allPanels = $('#faqaccordion .faq-answer')
+    console.log(allPanels)
+    allPanels.addClass('collapse');
+    $('#faqaccordion .faq-item:first-child .faq-answer').collapse('show');
+    
+      
+    
+    $('#faqaccordion .faq-question').click(function() {
+      allPanels.collapse('hide');
+      console.log($(this).parent().children('.faq-answer'))
+      $(this).parent().children('.faq-answer').collapse('show');
+      return false;
+    });
+  });
+  </script>
 
   
   

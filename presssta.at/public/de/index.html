@@ -35,10 +35,10 @@
 
 
   
-  <link rel="stylesheet" href="https://i.notice.at/temp/presssta/css/bootstrap.min.css" />
+  <link rel="stylesheet" href="https://i.notice.at/temp/presssta/sass/bootstrap4-custom.min.5adb881d8b25d66aa7df4b83295dd2bc60793723c270b9d286acc5f19ae8ee34.css" />
 
   
-  <link rel="stylesheet" href="https://i.notice.at/temp/presssta/sass/main.min.dcd232525f5be765117c5137c7189a7135649c4f07837ff75993d76f87203234.css" />
+  <link rel="stylesheet" href="https://i.notice.at/temp/presssta/sass/main.min.695d531a6a91984d93556c788992d87a297a910afba3597d7290e96780538260.css" />
 
   
   <title>Presssta &middot; presssta Schnell. Sicher. Stanzen.</title>
@@ -360,7 +360,28 @@
   </div>
 
 </nav>
-  <div class="bigimage" style="background-image: url(/temp/presssta/de/HB-Erfinder.jpg)"><h1 class="headline">Test Headline</h1></div>
+  
+  
+  <div class="slides">
+    
+    <div class="slide" style="background-image: url(/temp/presssta/de/slider/HB-Start1.jpg)">
+      <div class="slide-text">Weltneuheit im Trockenbau</div>
+    </div>
+    
+    <div class="slide" style="background-image: url(/temp/presssta/de/slider/HB-Start2.jpg)">
+      <div class="slide-text">Perfekte Vorbereitung für Installationen</div>
+    </div>
+    
+    <div class="slide" style="background-image: url(/temp/presssta/de/slider/HB-Start3.jpg)">
+      <div class="slide-text">Ohne Gefährdung Ihrer Mitarbeiter</div>
+    </div>
+    
+    <div class="slide" style="background-image: url(/temp/presssta/de/slider/HB-Start4.jpg)">
+      <div class="slide-text">Viel schneller in der Anwendung</div>
+    </div>
+    
+  </div>
+  
   <div class="container">
     <article class="page-content">
       
@@ -412,7 +433,7 @@
 
    <div class="col">
      <div>
-  <a href="/temp/presssta/de/erfinder" class="imagelink" style="background-image:url()">
+  <a href="/temp/presssta/de/unternehmen/erfinder" class="imagelink" style="background-image:url()">
     <img class="imagelink-image" src="/temp/presssta/de/Start-3er1.jpg">
     <div class="imagelink-hover"></div>
     <div class="imagelink-text"><p>Die <br>Erfinder</p>
@@ -424,7 +445,7 @@
 
    <div class="col">
      <div>
-  <a href="/temp/presssta/de/anwendung" class="imagelink" style="background-image:url()">
+  <a href="/temp/presssta/de/produkt/anwendung" class="imagelink" style="background-image:url()">
     <img class="imagelink-image" src="/temp/presssta/de/Start-3er2.jpg">
     <div class="imagelink-hover"></div>
     <div class="imagelink-text"><p>Die <br>Anwendung</p>
@@ -436,7 +457,7 @@
 
    <div class="col">
      <div>
-  <a href="/temp/presssta/de/technische-daten" class="imagelink" style="background-image:url()">
+  <a href="/temp/presssta/de/produkt/technische-daten" class="imagelink" style="background-image:url()">
     <img class="imagelink-image" src="/temp/presssta/de/Start-3er3.jpg">
     <div class="imagelink-hover"></div>
     <div class="imagelink-text"><p>Die <br>Technik</p>
@@ -449,7 +470,7 @@
 </div>
 
 <blockquote class="quote">
-  <div class="mb-0 quote-content"><p>„Eine Nassgruppe kann ich statt in einer Stunde nun in 30 Minuten installieren“,“</p>
+  <div class="mb-0 quote-content"><p>„Eine Nassgruppe kann ich statt in einer Stunde nun in 30 Minuten installieren“</p>
 </div>
   
   <footer class="quote-footer">freut sich ein Fachmann</footer>
@@ -462,6 +483,33 @@
   
 <script src="https://i.notice.at/temp/presssta/js/jquery-3.3.1.slim.min.js"></script>
 <script src="https://i.notice.at/temp/presssta/js/bootstrap.bundle.min.js"></script>
+
+  
+  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <script>
+  $(document).ready(function(){
+    $('.slides').slick({
+      autoplaySpeed: 4000,
+      prevArrow: '<div class="slick-prev"><img src="https:\/\/i.notice.at\/arrow-left.svg"></div>',
+      nextArrow: '<div class="slick-next"><img src="https:\/\/i.notice.at\/arrow-right.svg"></div>'
+    });
+    
+    var allPanels = $('#faqaccordion .faq-answer')
+    console.log(allPanels)
+    allPanels.addClass('collapse');
+    $('#faqaccordion .faq-item:first-child .faq-answer').collapse('show');
+    
+      
+    
+    $('#faqaccordion .faq-question').click(function() {
+      allPanels.collapse('hide');
+      console.log($(this).parent().children('.faq-answer'))
+      $(this).parent().children('.faq-answer').collapse('show');
+      return false;
+    });
+  });
+  </script>
 
   
   

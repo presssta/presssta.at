@@ -3,14 +3,17 @@ $secondary-color: #7b6f67;
 
 body {
   background-color: #fff;
-  font-family: 'Montserrat', sans-serif;
+  // font-family: 'Montserrat', sans-serif;
   font-size: 14px;
 }
 
 a {
   color: $primary-color;
 }
-
+.btn-primary {
+  background-color: $primary-color;
+  border-color: $primary-color;
+}
 .custom-navbar {
   position: absolute;
   width: 100%;
@@ -168,7 +171,7 @@ a {
       }
     }
     
-    &:hover .subnav {
+    &:hover .subnav .nojs &, &.open .subnav {
       display: flex;
       animation: nav-pop .3s;
     }
@@ -217,7 +220,7 @@ a {
     color: $primary-color;
     font-size: 1.5em;
     font-weight: 400;
-    margin: 1em 0 .1em;
+    margin: 1em 0 .5em;
   }
   ul {
     padding-left: 2.2em;
@@ -318,35 +321,62 @@ a {
       text-decoration: none;
     }
   }
+  .faqs {
+    background-color: #eee;
+    margin: 1em 0;
+    .faq-item {
+      padding: 1em;
+      .faq-question {
+        border-bottom: 1px solid $primary-color;
+        padding: 0 0 .2em 1em; 
+        cursor: pointer;
+        p {
+          font-size: 1.4em;
+          margin: 0;
+        }      
+      }     
+      .faq-answer p {
+        padding: 1.2em 0 0 1em; 
+      } 
+    }
+  }
 }
 
 
 
 .bigimage {
-  min-height: 36vw;
+  height: 36vw;
   width: 100%;
   background-size: cover;
   background-position: center;
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-bottom: 2em;
+  background-color: lighten($secondary-color, 30);
 }
 .slides {
+  height: 36vw;
+  overflow: hidden;
+  background-color: lighten($secondary-color, 30);
   .slide {
     padding-top: 100px;
-    min-height: 36vw;
+    height: 36vw;
     width: 100%;
     background-size: cover;
     background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 4.5em;
-    font-weight: 700;
     color: white;
-    text-shadow: 0 3px #7b6f67; 
     .slide-text {
       margin: 0 100px;
+      max-width: 12em;
+      font-size: 4.5em;
+      font-weight: 700;
+      text-align: center;
+      line-height: 1.1em;
+      text-shadow: 0 3px #7b6f67, 0 3px 100px #7b6f67; 
     }
   }
 }
@@ -393,7 +423,7 @@ a {
 
 .nohero {
   display: block;
-  min-height: 120px;
+  min-height: 250px;
 }
 
 h1.headline {
@@ -402,6 +432,8 @@ h1.headline {
   font-size: 60px;
   color: #fff;
   text-shadow: 0 1px rgba(0,0,0,.8);
+  text-align: center;
+  max-width: 14em;
 }
 
 
@@ -428,3 +460,6 @@ h1.headline {
 	}
 }
 
+#contactform {
+  margin: 1.5em 0;
+}

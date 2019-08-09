@@ -18,10 +18,10 @@
               {{ $currentPage := . }}
               {{ range .Site.Menus.main }}
                       <li class="mainnav__el {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                          <a class="mainnav__link" href="{{ .URL | absLangURL }}">
+                          <span class="mainnav__link" href="{{ .URL | absLangURL }}">
                               {{ .Pre }}
                               <span>{{ .Name }}</span>
-                          </a>
+                          </span>
                           {{ if .HasChildren }}
                           <div class="subnav-wrp">
                             <ul class="subnav">
@@ -81,5 +81,4 @@
     </div>
 
   </div>
-
 </nav>
