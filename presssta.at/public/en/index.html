@@ -38,7 +38,7 @@
   <link rel="stylesheet" href="https://i.notice.at/temp/presssta/sass/bootstrap4-custom.min.5adb881d8b25d66aa7df4b83295dd2bc60793723c270b9d286acc5f19ae8ee34.css" />
 
   
-  <link rel="stylesheet" href="https://i.notice.at/temp/presssta/sass/main.min.695d531a6a91984d93556c788992d87a297a910afba3597d7290e96780538260.css" />
+  <link rel="stylesheet" href="https://i.notice.at/temp/presssta/sass/main.min.cd6be9b209bc2974a5e3724856cc968bc50ee76b8a6f76b6414c6daeb38f7b2b.css" />
 
   
   
@@ -49,7 +49,7 @@
   
 </head>
 
-<body>
+<body class="nojs">
   <nav class="custom-navbar navbar-expand-lg navbar-light">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarText" aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
@@ -70,10 +70,10 @@
               
               
                       <li class="mainnav__el ">
-                          <a class="mainnav__link" href="https://i.notice.at/en/temp/presssta/product">
+                          <span class="mainnav__link" href="https://i.notice.at/en/temp/presssta/product">
                               
                               <span>Product</span>
-                          </a>
+                          </span>
                           
                           <div class="subnav-wrp">
                             <ul class="subnav">
@@ -175,10 +175,10 @@
                           
               
                       <li class="mainnav__el ">
-                          <a class="mainnav__link" href="https://i.notice.at/en/temp/presssta/company">
+                          <span class="mainnav__link" href="https://i.notice.at/en/temp/presssta/company">
                               
                               <span>Company</span>
-                          </a>
+                          </span>
                           
                           <div class="subnav-wrp">
                             <ul class="subnav">
@@ -280,10 +280,10 @@
                           
               
                       <li class="mainnav__el ">
-                          <a class="mainnav__link" href="https://i.notice.at/en/temp/presssta/service-news">
+                          <span class="mainnav__link" href="https://i.notice.at/en/temp/presssta/service-news">
                               
                               <span>Service &amp; News</span>
-                          </a>
+                          </span>
                           
                           <div class="subnav-wrp">
                             <ul class="subnav">
@@ -360,7 +360,6 @@
     </div>
 
   </div>
-
 </nav>
   
   <div class="nohero">
@@ -386,6 +385,30 @@
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
   <script>
   $(document).ready(function(){
+    $('body').removeClass('nojs')
+    
+    var mainnavCats = $('.mainnav__el ')
+    mainnavCats.click(function() {
+      if($(this).hasClass('open')) {
+        mainnavCats.removeClass('open')        
+        $(this).addClass('closeaction')
+      } else {
+        mainnavCats.removeClass('open')
+        $(this).addClass('open')
+      }
+    })
+    mainnavCats.hover(function() {
+      if($(this).hasClass('closeaction')) {
+        $(this).removeClass('closeaction')
+      } else {
+        mainnavCats.removeClass('open')
+        $(this).addClass('open')
+      }
+    })
+    $('.nav-redline').click(function() {
+      mainnavCats.removeClass('open')      
+    })
+    
     $('.slides').slick({
       autoplaySpeed: 4000,
       prevArrow: '<div class="slick-prev"><img src="https:\/\/i.notice.at\/arrow-left.svg"></div>',
@@ -393,7 +416,6 @@
     });
     
     var allPanels = $('#faqaccordion .faq-answer')
-    console.log(allPanels)
     allPanels.addClass('collapse');
     $('#faqaccordion .faq-item:first-child .faq-answer').collapse('show');
     

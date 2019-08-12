@@ -15,8 +15,6 @@ image = "slider/HB-Start3.jpg"
 [[slides]]
 text = "Viel schneller in der Anwendung"
 image = "slider/HB-Start4.jpg"
-
-
 +++   
 
 

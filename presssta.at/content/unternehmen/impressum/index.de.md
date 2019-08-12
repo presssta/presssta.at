@@ -3,6 +3,7 @@ title = "Impressum"
 +++
 
 
+
 PRESSSTA ist ein lizensiertes Produkt der ÖKOEFF - Ökoeffiziente Energietechnik GmbH und patentrechtlich bzw. durch Gebrauchs- und Geschmacksmuster geschützt:
 presssta – Aufsatz für eine Pressvorrichtung: EU-Patent EP 2883658 (der österreichische Teil des europäischen Patents trägt die Nummer E931545) 
 Deutsches Patent Nr. 502014005579.8 (aus EP 2883658)
