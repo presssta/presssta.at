@@ -1,6 +1,15 @@
+{{- define "main" -}}
+
+<!-- <h1>{{ .Title | markdownify }}</h1> -->
+{{ .Content }}
+
+{{- end -}}
+
+<!-- 
 {{ range .Data.Pages.ByPublishDate }}
 <li>
 <a href="{{ .Permalink }}">{{ .Title }}</a>
 <div class="meta">{{ .PublishDate.Format "Mon, Jan 2, 2006" }}</div>
 </li>
 {{ end }}
+-->

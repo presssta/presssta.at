@@ -13,39 +13,39 @@ weight = 30
 
 [[main]]
 parent = "Produkt"
-name = "Ausschreibungstexte"
-title = "Ich bin eine Navigationsbeschreibung"
-url = "/produkt/ausschreibungstexte"
-weight = 10
-[[main]]
-parent = "Produkt"
 name = "Anwendung"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/produkt/anwendung"
-weight = 20
-[[main]]
-parent = "Produkt"
-name = "FAQs"
-title = "Ich bin eine Navigationsbeschreibung"
-url = "/produkt/faqs"
-weight = 30
+weight = 10
 [[main]]
 parent = "Produkt"
 name = "Technische Daten"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/produkt/technische-daten"
-weight = 40
+weight = 20
 [[main]]
 parent = "Produkt"
-name = "Anfrage/Bestellung"
+name = "Ausschreibung"
 title = "Ich bin eine Navigationsbeschreibung"
-url = "/produkt/anfrage-bestellung"
-weight = 50
+url = "/produkt/ausschreibungstexte"
+weight = 30
+[[main]]
+parent = "Produkt"
+name = "FAQs"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/produkt/faqs"
+weight = 40
 [[main]]
 parent = "Produkt"
 name = "Bezugsquellen"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/produkt/bezugsquellen"
+weight = 50
+[[main]]
+parent = "Produkt"
+name = "Anfrage/Bestellung"
+title = "Ich bin eine Navigationsbeschreibung"
+url = "/produkt/anfrage-bestellung"
 weight = 60
 
 [[main]]

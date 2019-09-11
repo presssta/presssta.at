@@ -22,6 +22,7 @@
   </div>
   {{ else }}
   <div class="nohero">
+    <h1 class="headline">{{ .Params.headline  }}</h1>
   </div>
   {{ end }}
   <div class="container">
@@ -69,12 +70,15 @@
     var allPanels = $('#faqaccordion .faq-answer')
     allPanels.addClass('collapse');
     $('#faqaccordion .faq-item:first-child .faq-answer').collapse('show');
+    $('#faqaccordion .faq-item:first-child').addClass('open');
     // for (var p in allPanels) {
       // console.log(allPanels[p])
     // }
     $('#faqaccordion .faq-question').click(function() {
       allPanels.collapse('hide');
+      allPanels.parent().removeClass('open');
       console.log($(this).parent().children('.faq-answer'))
+      $(this).parent().addClass('open');
       $(this).parent().children('.faq-answer').collapse('show');
       return false;
     });

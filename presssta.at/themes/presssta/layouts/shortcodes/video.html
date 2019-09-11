@@ -1,0 +1,29 @@
+{{- $video := .Get "video" -}}
+{{- $poster := .Get "poster" -}}
+<div class="video">
+<img src="{{ .Inner }}" alt="">
+{{ with $video }}
+{{ end }}
+</div>
+
+
+
+{{ $cover := print .Inner ".jpg" }}
+{{ $videoMp4 := print .Inner ".mp4" }}
+
+
+
+<div class="video" id="video_{{ .Inner }}">
+<img src="{{ $cover }}" alt="" style="max-width: 100%;">
+<video style="display:none" controls="controls" autoplay>
+<source src="{{ $videoMp4 }}" type="video/mp4">
+</video>
+
+</div>
+
+<script>
+  $('#video_{{ .Inner }} > img').click(function {
+    $('#video_{{ .Inner }} > img')).hide();
+    $('#video_{{ .Inner }} > video')).show();
+  })
+</script>

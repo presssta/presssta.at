@@ -1,8 +1,14 @@
 +++
 title = "Anwendung"
 header = "HB-Anwendung.jpg"
-headline = "Anwendung"
+headline = "Die Anwendung"
 +++
+
+
+
+{{% video %}}Anwendungsvideo-fnf{{% /video %}}
+
+
 
 # Bedienungsanleitung für PRESSSTA Stanzwerkzeug V3.1
 

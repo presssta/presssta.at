@@ -6,9 +6,8 @@ title = "FAQs"
 
 # Sie haben Fragen?<br>Wir haben die Antworten!
 
-Hier finden Sie alle Fragen rund ums presssta-System. Wenn Sie hier keine Antwort auf Ihre Frage finden, schicken Sie uns einfach eine e-mail an [office@oekoeff.at](mailto:office@oekoeff.at) oder rufen Sie uns an unter [+43 1 295 22 22](tel:+4312952222).
+## Hier finden Sie alle Fragen rund ums presssta-System. Wenn Sie hier keine Antwort auf Ihre Frage finden, schicken Sie uns einfach eine e-mail an [office@oekoeff.at](mailto:office@oekoeff.at) oder rufen Sie uns an unter [+43 1 295 22 22](tel:+4312952222).
 
-### Fragen zum presssta-System:
 
 {{% faqs %}}
 
@@ -72,8 +71,3 @@ Ja das presssta-System steht auch unseren Kunden aus dem Ausland zur Verfügung
 
 {{% /faqs %}}
 
-
-
-{{% quote author="Josef Schwingenschrot" %}}
-„Die Aufgabe hat mich fasziniert eine technisch perfekte Lösung zu entwicklen.“
-{{% /quote %}}
