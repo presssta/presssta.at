@@ -547,4 +547,4 @@ berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar.
 
 Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der
 Datenschutzerklärung von Google:
-<https://policies.google.com/privacy?hl=de>.
+[https://policies.google.com/privacy?hl=de](https://policies.google.com/privacy).

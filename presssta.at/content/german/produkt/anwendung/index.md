@@ -4,7 +4,6 @@ header = "HB-Anwendung.jpg"
 headline = "Anwendung"
 +++
 
-
 # Bedienungsanleitung für PRESSSTA Stanzwerkzeug V3.1
 
 Das PRESSSTA Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen

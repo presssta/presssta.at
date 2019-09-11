@@ -4,8 +4,6 @@ header = "HB-Erfinder.jpg"
 +++
 
 
-
-
 # Wer hat's erfunden?
 
 ## 2 findige Köpfe machten es sich zur Aufgabe die Installateurwelt zu revolutionieren.

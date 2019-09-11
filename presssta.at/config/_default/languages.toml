@@ -1,8 +1,10 @@
 [en]
   weight = 2
+  contentDir = "content/english"
   [en.params]
     description = "English slogan"
 [de]
   weight = 1
+  contentDir = "content/german"
   [de.params]
     description = "Schnell. Sicher. Stanzen."
