@@ -1,5 +1,7 @@
 {{- define "main" -}}
 
+{{ .Content }}
+
 {{ $homepage := "Home" }}
 {{ with .Site.Menus.nav }}
   {{ range first 1 . }}

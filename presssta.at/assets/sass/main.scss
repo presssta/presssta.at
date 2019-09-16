@@ -425,6 +425,32 @@ a {
       } 
     }
   }
+  
+  .video {
+    text-align: center;
+    .video__poster, .video__player {
+      max-width: 80%;
+    }
+    .video__poster {
+      cursor: pointer;
+    }
+  }
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 2em 0;
+    margin: -.5%;
+    .gallery__item {
+      display: block;
+      padding: .5%;
+      width: 14.28%;
+    }
+    .gallery__figure, .gallery__image {
+      width: 100%;
+      margin: 0;
+      padding: 0;
+    }
+  }
 }
 
 

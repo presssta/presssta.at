@@ -1,0 +1,29 @@
+{{ $pattern := print (.Get "src") "/*.jpg"  }}
+{{ $images := .Page.Resources.Match $pattern }}
+
+{{ $fancyboxJs := "js/jquery.fancybox.min.js" -}}
+<script src="{{ $fancyboxJs | absURL }}"></script>
+
+{{ $fancyboxCss := resources.Get "css/jquery.fancybox.css" | resources.Fingerprint }}
+<link rel="stylesheet" href="{{ $fancyboxCss.Permalink }}" />
+
+
+<div class="gallery">
+{{ range $images }}
+{{ $image := .Resize "1920x1080" }}
+{{ $thumb := .Fill "400x400" }}
+<a class="gallery__item" data-fancybox="gallery" href="{{ $image.RelPermalink }}">
+<figure class="gallery__figure">
+<picture class="gallery__image">
+  <source media="(max-width: 959px)" src="{{ $thumb.RelPermalink }}" alt="">
+  <img class="gallery__image" src="{{ $thumb.RelPermalink }}" alt="">
+</picture>
+</figure>
+</a>
+{{ end }}
+</div>
+
+<script>
+
+</script>
+

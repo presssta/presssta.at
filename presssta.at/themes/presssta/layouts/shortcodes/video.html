@@ -1,29 +1,25 @@
-{{- $video := .Get "video" -}}
-{{- $poster := .Get "poster" -}}
-<div class="video">
-<img src="{{ .Inner }}" alt="">
-{{ with $video }}
-{{ end }}
-</div>
+{{ $id := .Get "src" }}
+
+{{ $poster := print (.Get "src") ".jpg" }}
+{{ $videoMp4 := print (.Get "src") ".mp4" }}
+{{ $videoWebm := print (.Get "src") ".webm" }}
 
 
 
-{{ $cover := print .Inner ".jpg" }}
-{{ $videoMp4 := print .Inner ".mp4" }}
 
-
-
-<div class="video" id="video_{{ .Inner }}">
-<img src="{{ $cover }}" alt="" style="max-width: 100%;">
-<video style="display:none" controls="controls" autoplay>
+<div class="video" id="video_{{ $id }}">
+<img class="video__poster" src="{{ $poster }}" alt="">
+<video class="video__player" controls="controls" poster="{{ $poster }}">
 <source src="{{ $videoMp4 }}" type="video/mp4">
+<source src="{{ $videoWebm }}" type="video/webm">
 </video>
-
 </div>
 
 <script>
-  $('#video_{{ .Inner }} > img').click(function {
-    $('#video_{{ .Inner }} > img')).hide();
-    $('#video_{{ .Inner }} > video')).show();
-  })
+$('#video_{{ $id }} > video').hide();
+$('#video_{{ $id }} > img').click( function() {
+  $('#video_{{ $id }} > img').hide();
+  $('#video_{{ $id }} > video').show();
+  $('#video_{{ $id }} > video').get(0).play();
+});
 </script>
