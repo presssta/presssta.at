@@ -23,12 +23,12 @@ name = "Technische Daten"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/produkt/technische-daten"
 weight = 20
-[[main]]
-parent = "Produkt"
-name = "Ausschreibung"
-title = "Ich bin eine Navigationsbeschreibung"
-url = "/produkt/ausschreibungstexte"
-weight = 30
+# [[main]]
+# parent = "Produkt"
+# name = "Ausschreibung"
+# title = "Ich bin eine Navigationsbeschreibung"
+# url = "/produkt/ausschreibungstexte"
+# weight = 30
 [[main]]
 parent = "Produkt"
 name = "FAQs"
@@ -53,19 +53,19 @@ parent = "Unternehmen"
 name = "Datenschutz"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/unternehmen/datenschutz"
-weight = 10
+weight = 55
 [[main]]
 parent = "Unternehmen"
 name = "Philosophie"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/unternehmen/philosophie"
 weight = 20
-[[main]]
-parent = "Unternehmen"
-name = "Sitemap"
-title = "Ich bin eine Navigationsbeschreibung"
-url = "/unternehmen/sitemap"
-weight = 30
+#[[main]]
+#parent = "Unternehmen"
+#name = "Sitemap"
+#title = "Ich bin eine Navigationsbeschreibung"
+#url = "/sitemap.xml"
+#weight = 53
 [[main]]
 parent = "Unternehmen"
 name = "Erfinder"
@@ -91,12 +91,12 @@ name = "News"
 title = "Neues, interessantes & lesensertes"
 url = "/service-news/news"
 weight = 10
-[[main]]
-parent = "Service & News"
-name = "Presse"
-title = "Berichte aus Presse und anderen Medien"
-url = "/service-news/presse"
-weight = 20
+# [[main]]
+# parent = "Service & News"
+# name = "Presse"
+# title = "Berichte aus Presse und anderen Medien"
+# url = "/service-news/presse"
+# weight = 20
 [[main]]
 parent = "Service & News"
 name = "Downloads"

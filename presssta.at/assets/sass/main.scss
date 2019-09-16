@@ -113,10 +113,12 @@ a {
   }
 }
 
-.navbar-light {
-    display: flex;
-    flex-grow: 1;
-}
+
+@media(min-width:992px) {
+  .navbar-light {
+      display: flex;
+      flex-grow: 1;
+  }
 
 .mainnav {
   display: flex;
@@ -231,6 +233,75 @@ a {
   }
 }
 
+} // end .mainnav media query
+
+@media(max-width:991px) {
+  .custom-navbar .nav-redline {
+    min-height: 0;
+    padding-top: 10px;
+  }
+  .nav-container {
+    display: flex;
+    justify-content: space-between;
+    .navbar-tog {
+      border: none;
+      color: $primary-color;
+      display: flex;
+      flex-direction: column;
+      background: none;
+      padding: .6em 0;
+      .navbar-tog-line {
+        width: 1.8em;
+        height: 3px;
+        margin: .2em 0;
+        background-color: $primary-color;
+        display: block;
+      }
+    }
+    .header__navs {
+      flex-direction: column;
+      align-items: flex-start;
+      .logo {
+        margin-top: 8px;
+      }
+      .navbar-light {
+        padding: 0 4px;
+        background: #fff;
+      }
+      .mainnav {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        .mainnav__el {
+          .mainnav__link {
+            text-transform: uppercase;
+            font-weight: 700;
+            font-size: .7em;
+            display: block;
+            border-bottom: 1px solid $secondary-color;
+          }
+          .subnav {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+            .subnav__link {
+              color: #7b6f67;
+              padding: .5em 0;
+            }
+            .subnav__name {
+              font-weight: 700;
+            }
+            .subnav__title {
+              font-size: .8em;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+
 .phone-bt {
   .phone-bt__link {
     display: flex;
@@ -325,6 +396,9 @@ a {
       font-family: 'Playfair Display', serif;
       font-style: italic;
       font-size: 3.8em;
+      @media (max-width: 700px) {
+        font-size: 2.8em;
+      }
       line-height: 1.1em;
     }
     .quote-footer {
@@ -333,36 +407,67 @@ a {
     }
   }
   
+
   .fact {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    margin: 2.6em 0;
-    .fact-number {
-      color: $primary-color;
-      border-bottom: 1px solid $primary-color;
-      font-size: 6em;
-      font-weight: 700;
-      min-width: 1.3em;
-      text-align: center;    
-      line-height: 1.2;
+    @media (max-width: 575px) {
+      display: flex;
+      margin: .7em 0;
+      padding: 0 7vw;
+      align-items: center;
+      .fact-number {
+        color: $primary-color;
+        border-bottom: .1em solid $primary-color;
+        font-size: 10vw;
+        line-height: 1.3em;
+        font-weight: 700;
+        min-width: 1.3em;
+        text-align: center;
+        margin-right: .3em;
+      }
+      .fact-text {
+        font-size: 4vw;
+        p {
+          margin: 0;
+        }
+      }
     }
-    .fact-text {
-      margin-top: .4em;
-      font-size: 1.25em;
-      line-height: 1.3em;
-      max-width: 15em;
-      text-align: center;
-    }
-  }  
+
+    @media (min-width: 576px) {
+      display: flex;
+      flex-direction: row;
+      margin: 2.6em 0;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      .fact-number {
+        color: $primary-color;
+        border-bottom: 1px solid $primary-color;
+        font-size: 6em;
+        font-weight: 700;
+        min-width: 1.3em;
+        text-align: center;    
+        line-height: 1.2;
+      }
+      .fact-text {
+        margin-top: .9em;
+        font-size: 1.25em;
+        line-height: 1.3em;
+        max-width: 15em;
+        text-align: center;
+      }
+    }  
+  }
   .imagelink {
+    margin: .5em 0;
     background-size: cover;
     display: flex;
     background-color: #aaa;
     color: #fff;
     font-weight: 700;
     font-size: 2.7em;
+    @media(min-width: 576px) and (max-width:767px) {
+      font-size: 1.8em;
+    }
     text-align: center;
     align-items: center;
     justify-content: center;
@@ -459,7 +564,7 @@ a {
   height: 36vw;
   width: 100%;
   @media (max-width:1023px) {
-    height: auto;
+    min-height: 33vh;
   }
   background-size: cover;
   background-position: center;
@@ -471,11 +576,14 @@ a {
 }
 .slides {
   height: 36vw;
+  min-height: 400px;
   overflow: hidden;
   background-color: lighten($secondary-color, 30);
   .slide {
     padding-top: 100px;
     height: 36vw;
+    min-height: 400px;
+
     width: 100%;
     background-size: cover;
     background-position: center;
@@ -487,6 +595,13 @@ a {
       margin: 0 100px;
       max-width: 12em;
       font-size: 4.5em;
+      @media (max-width: 900px) {
+        font-size: 2.5em;
+      }
+      @media (max-width: 500px) {
+        font-size: 1.5em;
+      }
+
       font-weight: 700;
       text-align: center;
       line-height: 1.1em;
@@ -533,6 +648,14 @@ a {
 }
 .slick-next {
     right: 25px;
+}
+@media (max-width: 900px) {
+  .slick-prev {
+      left: 10px;
+  }
+  .slick-next {
+      right: 10px;
+  }
 }
 
 .nohero {
