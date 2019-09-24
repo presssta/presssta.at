@@ -24,10 +24,10 @@ Die Montage auch anspruchsvoller Installationen ist mit __presssta__ normgerecht
 __[Bedienungsanleitung zum Download](../service-news/downloads/Bedienungsanleitung-Presssta-ok.pdf)__
 
 
-to do: erster Absatz H4
+todo: erster Absatz H4
 Das __presssta__ Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen eingesetzt und wurde zur Herstellung von runden Löchern in U- oder C-Profilen aus Stahlblech für den Trockenbau, mit einer Blechstärke von ca. 0,5 bis 0,8 mm, ausgelegt. Die zu bewältigende Blechstärke ist abhängig von der Leistung der Antriebsmaschine.
 
-to do: wie faqs
+todo: wie faqs
 
 Grundsätzliches
 -------------
