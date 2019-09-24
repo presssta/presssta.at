@@ -21,8 +21,6 @@ headline = "Die Anwendung"
 
 ## Bedienungsanleitung für PRESSSTA Stanzwerkzeug V3.1
 
-## __[Bedienungsanleitung zum Download](../service-news/downloads/Bedienungsanleitung-Presssta-ok.pdf)__
-
 
 #### Das __presssta__ Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen eingesetzt und wurde zur Herstellung von runden Löchern in U- oder C-Profilen aus Stahlblech für den Trockenbau, mit einer Blechstärke von ca. 0,5 bis 0,8 mm, ausgelegt. Die zu bewältigende Blechstärke ist abhängig von der Leistung der Antriebsmaschine.
 
@@ -172,3 +170,8 @@ oder Öl.
 {{% /faq %}}
 
 {{% /faqs %}}
+
+
+## __[Bedienungsanleitung zum Download](../service-news/downloads/Bedienungsanleitung-Presssta-ok.pdf)__
+
+
