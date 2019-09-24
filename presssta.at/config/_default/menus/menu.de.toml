@@ -14,7 +14,7 @@ weight = 30
 [[main]]
 parent = "Produkt"
 name = "Anwendung"
-title = "Wie das neue und revolutionäre Pressstanzwerkzeug funktioniert"
+title = "Wie das Pressstanzwerkzeug funktioniert"
 url = "/produkt/anwendung"
 weight = 10
 [[main]]
@@ -43,7 +43,7 @@ url = "/produkt/bezugsquellen"
 weight = 50
 [[main]]
 parent = "Produkt"
-name = "Anfrage/Bestellung"
+name = "Anfrage / Bestellung"
 title = "Das Formular zum Produkt"
 url = "/produkt/anfrage-bestellung"
 weight = 60
@@ -110,6 +110,11 @@ name = "Downloads"
 title = "Produktinfos, techn. Daten etc."
 url = "/service-news/downloads"
 weight = 30
+
+
+[[action]]
+name = "Partner finden!"
+url = "/produkt/bezugsquellen"
 
 
 

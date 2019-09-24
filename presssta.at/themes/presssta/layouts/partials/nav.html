@@ -29,7 +29,7 @@
                                 <li class="subnav__el {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
                                   <a class="subnav__link" href="{{ .URL | absLangURL }}">
                                     <div class="subnav__name">
-                                      {{ .Name }}
+                                      <div class="subnav__name-pos">{{ .Name }}</div>
                                       <div class="subnav__fancy"></div>
                                     </div>
                                     <div class="subnav__title">
@@ -60,9 +60,11 @@
                 <img  class="phone-bt__image" src="{{ "/phone.svg" | absURL }}" alt="">
                 <div class="phone-bt__number">01/0000000</div>
               </a> -->
-              <a class="phone-bt__link" href="mailto:info@presssta.at">
-                <div class="phone-bt__number">info@presssta.at</div>
+              {{ range .Site.Menus.action }}
+              <a class="phone-bt__link" href="{{ .URL | absLangURL }}">
+                <div class="phone-bt__number">{{ .Name }}</div>
               </a>
+              {{ end }}
             </div>
             <div class="actionnav">
               <a href="mailto:info@presssta.at" class="actionnav__icon">

@@ -169,11 +169,11 @@ a {
           flex-grow: 1;
           flex-direction: column;
           .subnav__name, .subnav__title {
-            background: rgba(123, 111, 103, .6);
+            background: rgba(123, 111, 103, .65);
             color: #fff;
             padding-left: 15px;
             padding-right: 15px;
-            font-size: 10px;
+            font-size: .9em;
           }
           &.subnav__filler {
             .subnav__name, .subnav__title {
@@ -184,12 +184,19 @@ a {
 
           .subnav__name {
             letter-spacing: .03em;
-            padding-top: 22px;
+            padding-top: 3px;
             padding-bottom: 3px;
             text-transform: uppercase;
-            font-size: 10px;
+            font-size: .9em;
             margin-bottom: 2px;
             position: relative;
+            min-height: 3.5em;
+            line-height: 1.1em;
+            display: flex;
+            flex-direction: column;
+            justify-content: flex-end;
+            .subnav__name-pos {              
+            }
             .subnav__fancy {
               display: block;
               position: absolute;
@@ -409,6 +416,16 @@ a {
     font-size: 1.5em;
     font-weight: 400;
     margin: 1em 0 .5em;
+  }
+  h4 {
+    color: $secondary-color;
+    font-size: 1.5em;
+    font-weight: 400;
+    text-align: center;
+    margin: 1em 0;
+    max-width: 46em;
+    margin-left: auto;
+    margin-right: auto;
   }
   ul {
     padding-left: 2.2em;
