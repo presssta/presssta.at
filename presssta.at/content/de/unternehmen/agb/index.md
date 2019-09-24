@@ -7,8 +7,7 @@ headline = "AGB"
 
 # Allgemeine Geschäfts-/Lieferbedingungen der ÖKOEFF - Ökoeffiziente Energietechnik GmbH  für die Lieferung von presssta Pressstanzwerkzeugen, Ersatzteilen und Clips
 
-1.  Allgemeines
----------------
+## 1.  Allgemeines
 
     a.  Für sämtliche Geschäfte zwischen dem Käufer und der ÖKOEFF -
         Ökoeffiziente Energietechnik GmbH (kurz Unternehmen / „wir")
@@ -29,8 +28,7 @@ headline = "AGB"
         ständiger Geschäftsverbindung gelten unsere AGB, selbst ohne
         besonderen Hinweis darauf.
 
-2.  Angebot/Vertragsabschluss
-    -------------------------
+## 2.  Angebot/Vertragsabschluss
 
     a.  Angebote sind stets freibleibend. Ein Vertrag kommt nicht vor
         der Absendung unserer schriftlichen Auftragsbestätigung an den
@@ -46,36 +44,34 @@ headline = "AGB"
         sämtliche damit verbundene Folgen (insbesondere Liefertermin und
         Preis) angemessen berücksichtigt werden.
 
-3.  Informations- und Mitwirkungspflichten
-    --------------------------------------
+## 3.  Informations- und Mitwirkungspflichten
 
     a.  Der Käufer hat uns bereits vor Vertragsabschluss auf die
         gesetzlichen, behördlichen und auf alle anderen Vorschriften
         aufmerksam zu machen, welche die Vertragserfüllung
-        beeinträchtigen könnte, wie zum Beispiel jene bezüglich der
-        Lieferung, die Montage, den Betrieb, Krankheits- und
+        beeinträchtigen könnten, wie zum Beispiel jene bezüglich der
+        Lieferung, der Montage, den Betrieb, Krankheits- und
         Unfallverhütung sowie devisenrechtliche, export- bzw.
         importbeschränkende Bestimmungen. Der Käufer hat alle
         erforderlichen behördlichen Bewilligungen auf eigene Gefahr und
         Kosten rechtzeitig zu beschaffen.
 
-    b.  Der Käufer hat alles Erforderliche zu tun, damit die Arbeiten
+    b.  Der Käufer hat alles Erforderliche zu tun, damit die Arbeiten/die Lieferung
         rechtzeitig begonnen und ohne Behinderung oder Unterbrechung
         durchgeführt werden können. Der Käufer hat insbesondere die
         bauseitigen und sonstigen Vorbereitungsarbeiten rechtzeitig
         fachgemäß auf seine Kosten und Verantwortung in Übereinstimmung
-        mit der „Anleitung zur Bedienung und Inbetriebnahme"
+        mit der „Anleitung zur Bedienung und Inbetriebnahme" 
         auszuführen, welche einen integrierenden Vertragsbestandteil
-        darstellen (verfügbar auf unserer Webseite). Sämtliche
+        darstellen (verfügbar auf unserer Webseite todo: bitte internen Link zu downloads). Sämtliche
         Rechtsansprüche, die durch Verletzung der Mitwirkungspflichten
         entstehen, sind vom Käufer zu tragen.
 
-4.  Liefergegenstand
-    ----------------
+## 4.  Liefergegenstand
 
     a.  Der Liefergegenstand hat ausschließlich den in der
         Auftragsbestätigung festgelegten Spezifikationen zu entsprechen.
-        Die in -- elektronischer oder anderer Form -- vorliegenden
+        Die in - elektronischer oder anderer Form - vorliegenden
         Katalogen, Prospekten, Rundschreiben, Anzeigen und sonstigen
         allgemeinen Informationen enthaltenen Abbildungen,
         Beschreibungen und Angaben sind nur beispielhaft. Verbindlich
@@ -91,8 +87,7 @@ headline = "AGB"
         Verkäufer vorausgesetzten Zweck eignet, es sei denn, ein solcher
         wurde ausdrücklich in der Auftragsbestätigung festgehalten.
 
-5.  Zahlungsbedingungen / Preise
-    ----------------------------
+## 5.  Zahlungsbedingungen / Preise
 
     a.  Preisangaben verstehen sich ab Werk exklusive Transport (z.B.
         Verladung, Fracht) und Verpackung, zuzüglich der jeweils
@@ -111,7 +106,7 @@ headline = "AGB"
         nach Auslieferung (Gefahrenübergang) zu entrichten.
 
     d.  Zahlungen sind ohne jeden Abzug und in der Rechnung angegebenen
-        Währung durch Bank-überweisung zu leisten. Wechsel- und/oder
+        Währung durch Banküberweisung zu leisten. Wechsel- und/oder
         Scheckzahlung werden nicht als Erfüllung der Zahlungspflicht
         anerkannt.
 
@@ -120,12 +115,12 @@ headline = "AGB"
         oder Wechsel erfolgt stets nur zahlungshalber. Alle damit im
         Zusammenhang stehenden Zinsen und Spesen (z.B. Einziehungs- und
         Diskontspesen) gehen zu Lasten des Käufers. Zahlungen des
-        Käufers werden -- unabhängig von der jeweiligen Zahlungswidmung
-        -- zuerst auf Inkassokosten und Zinsen und dann auf die jeweils
+        Käufers werden - unabhängig von der jeweiligen Zahlungswidmung
+        - zuerst auf Inkassokosten und Zinsen und dann auf die jeweils
         älteste Verbindlichkeit des Käufers angerechnet.
 
     f.  Es kann zwischen den Vertragsparteien vereinbart sein, dass der
-        Käufer über seine Bank (oder eine für uns akzeptable \[andere\]
+        Käufer über seine Bank (oder eine für uns akzeptable andere
         Bank) ein Dokumentenakkreditiv zu eröffnen hat. In diesem
         Einzelfall ist festgelegt, dass die Akkreditiveröffnung in
         Übereinstimmung mit den Allgemeinen Richtlinien und Gebräuchen
@@ -144,7 +139,7 @@ headline = "AGB"
         verlangen. Unbeschadet des Rechts auf weitergehenden
         Schadenersatz wird in einem solchen Fall eine VERTRAGSSTRAFE IN
         HÖHE 1/2 (DIE HÄLFTE) DES NETTOKAUFPREISES fällig. Dasselbe
-        gilt, wenn der Käufer rechts-grundlos vom Vertrag Abstand nimmt.
+        gilt, wenn der Käufer rechtsgrundlos vom Vertrag Abstand nimmt.
 
     h.  Zur Aufrechnung sowie zur Ausübung von Pfand- oder
         Zurückbehaltungsrechten ist der Käufer nur befugt, wenn die von
@@ -152,8 +147,7 @@ headline = "AGB"
         anerkannt worden oder rechtskräftig durch Gerichtsurteil
         festgestellt sind.
 
-6.  Drittfinanzierung
-    -----------------
+## 6.  Drittfinanzierung
 
     a.  Der Käufer hat uns längstens 4 Wochen vor Auslieferung den
         finanzierenden Dritten (kurz „Finanzierer") bekanntzugeben und
@@ -198,13 +192,13 @@ headline = "AGB"
         Geltendmachung nachstehender Rechte/Ansprüche bleibt jedoch
         ausschließlich dem Finanzierer vorbehalten:
 
-        i.   Anfechtung oder Aufhebung des Liefervertrages;
+          i. Anfechtung oder Aufhebung des Liefervertrages;
 
-        ii.  Übertragung des Eigentums und allfälliger Nutzungsrechte;
+         ii. Übertragung des Eigentums und allfälliger Nutzungsrechte;
 
         iii. Rückabwicklung des Liefervertrages;
 
-        iv.  gänzliche oder teilweise Rückerstattung des Kaufpreises.
+         iv. gänzliche oder teilweise Rückerstattung des Kaufpreises.
 
     h.  Nebenabreden, Ergänzungen oder Änderungen des Liefervertrages
         sind nur im Einvernehmen mit dem Käufer und dem Finanzierer
@@ -224,8 +218,7 @@ headline = "AGB"
         zu solchen Bedingungen verstanden werden die im Widerspruch zu
         unseren Bedingungen stehen.
 
-7.  Lieferzeit
-    ----------
+## 7.  Lieferzeit
 
     a.  Die Einhaltung von Terminen und Fristen für die
         Vertragserfüllung setzt Auftragsklarheit sowie den rechtzeitigen
@@ -245,8 +238,8 @@ headline = "AGB"
         infolge von Umständen, die von uns nicht zu vertreten sind,
         treten sämtliche an den Versand oder die Abnahme anknüpfenden
         Rechtsfolgen (insbesondere Fälligkeiten für Zahlungen,
-        Gefahrenübergang oder Gewährleistungs-fristbeginn) schon mit dem
-        Zeitpunkt der Versand- oder Abnahme-bereitschaft ein. Die
+        Gefahrenübergang oder Gewährleistungsfrist/-beginn) schon mit dem
+        Zeitpunkt der Versand- oder Abnahmebereitschaft ein. Die
         Abnahme darf bei Vorliegen bloß unwesentlicher Mängel nicht
         verweigert werden. Die Lieferfrist bzw. der -termin verlängert
         sich angemessen, soweit die Verspätung auf Umständen beruht, die
@@ -261,13 +254,12 @@ headline = "AGB"
         anfallenden Kosten (z.B. Einlagerungskosten,
         Finanzierungskosten) angelastet werden.
 
-8.  Verzug
-    ------
+## 8.  Verzug
 
     a.  Falls zwischen den Parteien eine Pönale / pauschale
         Verzugsentschädigung vereinbart wurde, gilt folgendes:\
         Soweit dem Käufer wegen einer von uns schuldhaft verursachten
-        Verzö-gerung ein Schaden erwächst, so ist er unter Ausschluss
+        Verzögerung ein Schaden erwächst, so ist er unter Ausschluss
         weiterer Ansprüche berechtigt, eine pauschale
         Verzugsentschädigung zu verlangen. Sie beträgt für jede
         vollendete Woche der Verspätung null-komma-fünf Prozent (0,5
@@ -284,8 +276,7 @@ headline = "AGB"
         verschuldeten Verzugs sowie nach fruchtlosem Ablauf einer
         schriftlich gesetzten angemessenen Nachfrist.
 
-9.  Übergang von Gefahr & Nutzen
-    ----------------------------
+## 9.  Übergang von Gefahr & Nutzen
 
     a.  Unabhängig von einer etwaig vereinbarten förmlichen Abnahme des
         Liefergegenstandes durch uns geht die Gefahr des zufälligen
@@ -311,27 +302,11 @@ headline = "AGB"
         zu entziehen, indem wir die Maschine für die Dauer des
         Zahlungsverzugs abholen.
 
-10. Eigentumsvorbehalt 
-    -------------------
+## 10. Eigentumsvorbehalt 
 
-> Ungeachtet des Übergangs von Preis- und Leistungsgefahr oder sonstiger
-> Bestimmungen dieser Lieferbedingungen, geht das Eigentum am
-> Liefergegenstand nicht vor der vollständigen Bezahlung des Kaufpreises
-> auf den Käufer über. Bis zur vollständigen Zahlung hat der Käufer den
-> Liefergegenstand ordnungsgemäß zu lagern, zu sichern, zu warten und zu
-> versichern und -- für Dritte gut erkennbar -- als unser Eigentum
-> kennzuzeichnen. Der Käufer hat uns auf Anfrage bei der Ergreifung der
-> zum Schutz unseres Eigentumsrechts am Liefergegenstand erforderlichen
-> Schritte im Bestimmungsland zu unterstützen, was gegebenenfalls durch
-> Registrierung oder, wenn das Eigentum nach dem anwendbaren lokalen
-> Recht nicht vorbehalten werden kann, auch durch Einräumung adäquater
-> Sicherungsrechte zu geschehen hat. Soweit nicht ausdrücklich anders
-> normiert, darf der Käufer jedoch bereits mit der Übernahme bzw.
-> Abnahme den Liefergegenstand wie ein Eigentümer nutzen und Erträge
-> daraus ziehen.
+Ungeachtet des Übergangs von Preis- und Leistungsgefahr oder sonstiger Bestimmungen dieser Lieferbedingungen, geht das Eigentum am Liefergegenstand nicht vor der vollständigen Bezahlung des Kaufpreises auf den Käufer über. Bis zur vollständigen Zahlung hat der Käufer den Liefergegenstand ordnungsgemäß zu lagern, zu sichern, zu warten und zu versichern und -- für Dritte gut erkennbar -- als unser Eigentum kennzuzeichnen. Der Käufer hat uns auf Anfrage bei der Ergreifung der zum Schutz unseres Eigentumsrechts am Liefergegenstand erforderlichen Schritte im Bestimmungsland zu unterstützen, was gegebenenfalls durch Registrierung oder, wenn das Eigentum nach dem anwendbaren lokalen Recht nicht vorbehalten werden kann, auch durch Einräumung adäquater Sicherungsrechte zu geschehen hat. Soweit nicht ausdrücklich anders normiert, darf der Käufer jedoch bereits mit der Übernahme bzw. Abnahme den Liefergegenstand wie ein Eigentümer nutzen und Erträge daraus ziehen.
 
-11. Gewährleistung
-    --------------
+## 11. Gewährleistung
 
     a.  Soweit nicht Abweichendes schriftlich vereinbart worden ist,
         beträgt die Gewährleistungsfrist zwölf (12) Monate ab
@@ -387,8 +362,7 @@ headline = "AGB"
         (z.B. „Garantie"), welche keinesfalls eine darüber hinaus
         gehende Haftung begründet.
 
-12. Gewerbliche Schutzrechte
-    ------------------------
+## 12. Gewerbliche Schutzrechte
 
     a.  Wir erklären nach bestem Wissen, dass der Liefergegenstand frei
         von jenen Rechten oder Ansprüchen Dritter ist, die auf
@@ -427,8 +401,7 @@ headline = "AGB"
         Ansprüchen Dritter frei stellen die auf Schutzrechtsverletzungen
         beruhen, für die wir nach diesem Vertragspunkt nicht haften.
 
-13. Haftungseinschränkung
-    ---------------------
+## 13. Haftungseinschränkung
 
     a.  Wir haften -- aus welchen Rechtsgründen immer -- nur, sofern uns
         grobes Verschulden nachgewiesen wird. Die Haftung für leichte
@@ -451,8 +424,7 @@ headline = "AGB"
         zustehen, verjähren diese mit Ablauf von 2 (zwei) Jahren nach
         Gefahrenübergang.
 
-14. Rechtswahl / Gerichtsstand / Schiedsklausel
-    -------------------------------------------
+## 14. Rechtswahl / Gerichtsstand / Schiedsklausel
 
     a.  Unsere Rechtsbeziehungen mit dem Käufer unterliegen dem
         materiellen österreichischen Sachrecht unter Ausschluss des
@@ -478,20 +450,18 @@ headline = "AGB"
         entschieden werden. Der Ort des schiedsrichterlichen Verfahrens
         ist Wien.
 
-15. Compliance und Geschäftsethik
-    -----------------------------
+## 15. Compliance und Geschäftsethik
 
-> Als Grundvoraussetzung für jede Geschäftsverbindung erachten wir
-> sowohl die strikte Einhaltung unseres Verhaltenskodex in der jeweils
-> gültigen Fassung (verfügbar auf unserer Webseite) als auch die
-> Beachtung aller in diesem Zusammenhang einschlägigen Gesetze,
-> Richtlinien, Verordnungen und ähnlicher Normen. Eine Verletzung von
-> Bestimmungen im Sinne dieses Absatzes gilt als wesentliche
-> Vertragsverletzung, welche uns zum Rücktritt von allen noch
-> unerfüllten Aufträgen sowie zum umfassenden Schadenersatz berechtigt.
+ Als Grundvoraussetzung für jede Geschäftsverbindung erachten wir
+ sowohl die strikte Einhaltung unseres Verhaltenskodex in der jeweils
+ gültigen Fassung (verfügbar auf unserer Webseite) als auch die
+ Beachtung aller in diesem Zusammenhang einschlägigen Gesetze,
+ Richtlinien, Verordnungen und ähnlicher Normen. Eine Verletzung von
+ Bestimmungen im Sinne dieses Absatzes gilt als wesentliche
+ Vertragsverletzung, welche uns zum Rücktritt von allen noch
+ unerfüllten Aufträgen sowie zum umfassenden Schadenersatz berechtigt.
 
-16. Exportkontrolle
-    ---------------
+## 16. Exportkontrolle
 
     a.  Der Käufer anerkennt, dass Liefergegenstände den einschlägigen
         gesetzlichen Bestimmungen und Vorschriften über die
@@ -518,7 +488,7 @@ headline = "AGB"
     c.  Sofern für Exportkontrollprüfungen erforderlich, hat der Käufer
         nach Aufforderung unsererseits unverzüglich alle erforderlichen
         Informationen (Endempfänger, Endverbleib des Liefergegenstandes
-        ...) oder sonstiger Leistungen zu übermitteln.
+        …) oder sonstiger Leistungen zu übermitteln.
 
     d.  Unsere Verpflichtung, unter diesen Bedingungen geschlossene
         Verträge zu erfüllen, steht unter dem Vorbehalt, dass der
@@ -527,8 +497,7 @@ headline = "AGB"
         Außenwirtschaftsrechts, sowie keine Embargos und/oder sonstige
         Sanktionen entgegenstehen.
 
-17. Datenschutz & Schutz von (Betriebs-)Geheimnissen
-    ------------------------------------------------
+## 17. Datenschutz & Schutz von (Betriebs-)Geheimnissen
 
     a.  Die Parteien willigen ausdrücklich in die Verarbeitung
         personenbezogener Daten -- insbesondere von Namens-, Adress-
@@ -564,8 +533,7 @@ headline = "AGB"
     f.  Weitere Informationen zum Datenschutz unter
         [www.presssta.at](http://www.presssta.at) *(interner link)*
 
-18. Sonstiges
-    ---------
+## 18. Sonstiges
 
     a.  Erfüllungsort ist für alle Verpflichtungen aus dem Liefervertrag
         der Sitz unserer Gesellschaft.
@@ -595,62 +563,7 @@ Andere Texte / Überbleibsel aus anderen AGBs
 Angebot/Vertragsabschluss
 -------------------------
 
-Unsere Angebote sind unverbindlich und freibleibend.
 
-Zusagen, Zusicherungen und Garantien unsererseits oder von diesen AGB
-abweichende Vereinbarungen im Zusammenhang mit dem Vertragsabschluss
-werden gegenüber Kunden erst durch unsere schriftliche Bestätigung
-verbindlich.
-
-In Katalogen, Preislisten, Prospekten, Anzeigen auf Messeständen,
-Rundschreiben, Werbeaussendungen oder anderen Medien
-(Informationsmaterial) angeführte Informationen über unsere Produkte und
-Leistungen, die nicht uns zuzurechnen sind, hat der Kunde -- sofern der
-Kunde diese seiner Entscheidung zur Beauftragung zugrunde legt -- uns
-darzulegen. Diesfalls können wir zu deren Richtigkeit Stellung nehmen.
-Verletzt der Kunde diese Obliegenheit, sind derartige Angaben
-unverbindlich, soweit diese nicht ausdrücklich -- unternehmerischen
-Kunden gegenüber schriftlich -- zum Vertragsinhalt erklärt wurden.
-
-Kostenvoranschläge werden ohne Gewähr erstellt und sind entgeltlich.
-Verbraucher werden vor Erstellung des Kostenvoranschlages auf die
-Kostenpflicht hingewiesen. Erfolgt eine Beauftragung mit sämtlichen im
-Kostenvoranschlag umfassten Leistungen, wird der gegenständlichen
-Rechnung das Entgelt für den Kostenvoranschlag gutgeschrieben.
-
-Preise
-
-Preisangaben sind grundsätzlich nicht als Pauschalpreis zu verstehen.
-
-Für vom Kunden angeordnete Leistungen, die im ursprünglichen Auftrag
-keine Deckung finden, besteht Anspruch auf angemessenes Entgelt.
-
-Preisangaben verstehen sich zuzüglich der jeweils geltenden gesetzlichen
-Umsatzsteuer und ab Lager. Verpackungs-, Transport-. Verladungs- und
-Versandkosten sowie Zoll und Versicherung gehen zu Lasten des
-unternehmerischen Kunden. Verbrauchern als Kunden gegenüber werden diese
-Kosten nur verrechnet, wenn dies einzelvertraglich ausverhandelt wurde.
-Wir sind nur bei ausdrücklicher Vereinbarung verpflichtet, Verpackung
-zurückzunehmen.
-
-Die fach- und umweltgerechte Entsorgung von Altmaterial hat der Kunde zu
-veranlassen. Werden wir gesondert hiermit beauftragt, ist dies vom
-Kunden zusätzlich im hierfür vereinbarten Ausmaß, mangels
-Entgeltsvereinbarung angemessen zu vergüten.
-
-Wir sind aus eigenem berechtigt, wie auch auf Antrag des Kunden
-verpflichtet, die vertraglich vereinbarten Entgelte anzupassen, wenn
-Änderungen im Ausmaß von zumindest \_\_\_% hinsichtlich (a) der
-Lohnkosten durch Gesetz, Verordnung, Kollektivvertrag,
-Betriebsvereinbarungen oder (b) anderer zur Leistungserbringung
-notwendiger Kostenfaktoren wie Materialkosten aufgrund von Empfehlungen
-der Paritätischen Kommissionen oder von Änderungen der nationalen bzw
-Weltmarktpreise für Rohstoffe, Änderungen relevanter Wechselkurse etc.
-seit Vertragsabschluss eingetreten sind. Die Anpassung erfolgt in dem
-Ausmaß, in dem sich die tatsächlichen Herstellungskosten im Zeitpunkt
-des Vertragsabschlusses ändern gegenüber jenen im Zeitpunkt der
-tatsächlichen Leistungserbringung, sofern wir uns nicht in Verzug
-befinden.
 
 Das Entgelt bei Dauerschuldverhältnissen wird als wertgesichert nach dem
 VPI 2010 vereinbart und erfolgt dadurch eine Anpassung der Entgelte. Als
@@ -663,80 +576,7 @@ Dauerschuldverhältnissen gemäß Punkt 3.6 nur bei einzelvertraglicher
 Aushandlung, wenn die Leistung innerhalb von zwei Monaten nach
 Vertragsabschluss zu erbringen ist.
 
-Bei Verrechnung nach Längenmaß wird die größte Länge zugrunde gelegt,
-dies sowohl bei schräg geschnittenen und ausgeklinkten Profilen als auch
-bei gebogenen Profilen, Handläufen und dgl. sowie bei Stiegen-, Balkon-
-und Schutzgeländern, Einfriedungen und dgl. Bei Verrechnung eines
-Flächenmaßes wird stets das kleinste, die ausgeführte Fläche
-umschreibende Rechteck zugrunde gelegt. Die Verrechnung nach Gewicht
-erfolgt durch Wägung. Ist eine Wägung nicht möglich, ist das
-Handelsgewicht maßgeblich. Für Formstahl und Profile ist das
-Handelsgewicht, für Stahlblech und Bandstahl sind je mm der
-Materialdicke 80 N/m² anzusetzen; die Walztoleranz ist jeweils
-enthalten. Den so ermittelten Massen werden bei geschraubten,
-geschweißten und genieteten Konstruktionen für die verwendeten
-Verbindungsmittel \_\_\_\_\_\_\_\_\_\_ Prozent zugeschlagen; der
-Zuschlag für verzinkte Bauteile oder Konstruktionen beträgt
-\_\_\_\_\_\_\_\_\_ Prozent.
 
-Beigestellte Ware
-
-Werden Geräte oder sonstige Materialien vom Kunden bereitgestellt, sind
-wir berechtigt, dem Kunden einen Zuschlag von \_\_\_\_\_\_ % des Werts
-der beigestellten Geräte bzw des Materials zu berechnen.
-
-Solche vom Kunden beigestellte Geräte und sonstige Materialien sind
-nicht Gegenstand von Gewährleistung.
-
-Die Qualität und Betriebsbereitschaft von Beistellungen liegt in der
-Verantwortung des Kunden.
-
-Zahlung
-
-Ein Drittel des Entgeltes wird bei Vertragsabschluss, ein Drittel bei
-Leistungsbeginn und der Rest nach Leistungsfertigstellung fällig.
-
-Die Berechtigung zu einem Skontoabzug bedarf einer ausdrücklichen,
-gegenüber unternehmerischen Kunden schriftlichen -- Vereinbarung.
-
-Vom Kunden vorgenommene Zahlungswidmungen auf Überweisungsbelegen sind
-für uns nicht verbindlich.
-
-Gegenüber Unternehmern als Kunden sind wir gemäß § 456 UGB bei
-verschuldetem Zahlungsverzug dazu berechtigt, 9,2 % Punkte über dem
-Basiszinssatz zu berechnen. Gegenüber Verbrauchern berechnen wir einen
-Zinssatz iHv 4%.
-
-Die Geltendmachung eines weiteren Verzugsschadens bleibt vorbehalten,
-gegenüber Verbrauchern als Kunden jedoch nur, wenn dies im Einzelnen
-ausgehandelt wird.
-
-Kommt der unternehmerische Kunde im Rahmen anderer mit uns bestehender
-Vertragsverhältnisse in Zahlungsverzug, so sind wir berechtigt, die
-Erfüllung unserer Verpflichtungen aus diesem Vertrag bis zur Erfüllung
-durch den Kunden einzustellen.
-
-Wir sind dann auch berechtigt, alle Forderungen für bereits erbrachte
-Leistungen aus der laufenden Geschäftsbeziehung mit dem Kunden fällig zu
-stellen. Dies gegenüber Verbrauchern als Kunden nur für den Fall, dass
-eine rückständige Leistung zumindest seit sechs Wochen fällig ist und
-wir unter Androhung dieser Folge den Kunden unter Setzung einer
-Nachfrist von mindestens zwei Wochen erfolglos gemahnt haben.
-
-Eine Aufrechnungsbefugnis steht dem Kunden nur insoweit zu, als
-Gegenansprüche gerichtlich festgestellt oder von uns anerkannt worden
-sind. Verbrauchern als Kunden steht eine Aufrechnungsbefugnis auch zu,
-soweit Gegenansprüche im rechtlichen Zusammenhang mit der
-Zahlungsverbindlichkeit des Kunden stehen, sowie bei Zahlungsunfähigkeit
-unseres Unternehmens.
-
-Bei Überschreitung der Zahlungsfrist verfallen gewährte Vergütungen
-(Rabatte, Abschläge u.a.) und werden der Rechnung zugerechnet.
-
-Für zur Einbringlichmachung notwendige und zweckentsprechenden Mahnungen
-verpflichtet sich der Kunde bei verschuldetem Zahlungsverzug zur
-Bezahlung von Mahnspesen pro Mahnung in Höhe von € \_\_\_\_ soweit dies
-im angemessenen Verhältnis zur betriebenen Forderung steht.
 
 Bonitätsprüfung
 
@@ -747,131 +587,6 @@ bevorrechteten Gläubigerschutzverbände Alpenländischer Kreditorenverband
 Insolvenzschutzverband für Arbeitnehmer oder Arbeitnehmerinnen (ISA) und
 Kreditschutzverband von 1870(KSV) übermittelt werden dürfen.
 
-Mitwirkungspflichten des Kunden
-
-Unsere Pflicht zur Leistungsausführung beginnt frühestens, sobald der
-Kunde alle baulichen, technischen sowie rechtlichen Voraussetzungen zur
-Ausführung geschaffen hat, die im Vertrag oder in vor Vertragsabschluss
-dem Kunden erteilten Informationen umschrieben wurden oder der Kunde
-aufgrund einschlägiger Fachkenntnis oder Erfahrung kennen musste.
-
-Insbesondere hat der Kunde vor Beginn der Leistungsausführung die
-nötigen Angaben über die Lage verdeckt geführter Strom-, Gas- und
-Wasserleitungen oder ähnlicher Vorrichtungen, Fluchtwege, sonstige
-Hindernisse baulicher Art, Grenzverläufe sonstige mögliche
-Störungsquellen, Gefahrenquellen sowie die erforderlichen statischen
-Angaben und allfällige diesbezügliche projektierte Änderungen
-unaufgefordert zur Verfügung zu stellen. Auftragsbezogene Details zu den
-notwendigen Angaben können bei uns erfragt werden.
-
-Kommt der Kunde dieser Mitwirkungspflicht nicht nach, ist --
-ausschließlich im Hinblick auf die infolge falscher Kundenangaben nicht
-voll gegebene Leistungsfähigkeit -- unsere Leistung nicht mangelhaft.
-
-Der Kunde hat die erforderlichen Bewilligungen Dritter sowie Meldungen
-und Bewilligungen durch Behörden auf seine Kosten zu veranlassen. Auf
-diese weisen wir im Rahmen des Vertragsabschlusses hin, sofern nicht der
-Kunde darauf verzichtet hat oder der unternehmerische Kunden aufgrund
-Ausbildung oder Erfahrung über solches Wissen verfügen musste.
-
-Die für die Leistungsausführung einschließlich des Probebetriebes
-erforderliche Energie und Wassermengen sind vom Kunden auf dessen Kosten
-beizustellen.
-
-Der Kunde haftet dafür, dass die notwendigen baulichen, technischen und
-rechtlichen Voraussetzungen für das herzustellende Werk oder den
-Kaufgegenstand gegeben sind, die im Vertrag oder in vor
-Vertragsabschluss dem Kunden erteilten Informationen umschrieben wurden
-oder der Kunde aufgrund einschlägiger Fachkenntnis oder Erfahrung kennen
-musste.
-
-Der Kunde hat uns für die Zeit der Leistungsausführung kostenlos
-versperrbare Räume für den Aufenthalt der Arbeiter sowie für die
-Lagerung von Werkzeugen und Materialien zur Verfügung zu stellen.
-
-Auftragsbezogene Details der notwendigen Angaben können bei uns
-angefragt werden.
-
-Der Kunde ist nicht berechtigt, Forderungen und Rechte aus dem
-Vertragsverhältnis ohne unsere schriftliche Zustimmung abzutreten.
-
-Leistungsausführung
-
-Wir sind lediglich dann verpflichtet, nachträgliche Änderungs- und
-Erweiterungswünsche des Kunden zu berücksichtigen, wenn sie aus
-technischen Gründen erforderlich sind, um den Vertragszweck zu
-erreichen.
-
-Dem unternehmerischen Kunden zumutbare sachlich gerechtfertigte
-geringfügige Änderungen unserer Leistungsausführung gelten als vorweg
-genehmigt.
-
-Kommt es nach Auftragserteilung aus welchen Gründen auch immer zu einer
-Abänderung oder Ergänzung des Auftrages, so verlängert sich die
-Liefer-/Leistungsfrist um einen angemessenen Zeitraum.
-
-Wünscht der Kunde nach Vertragsabschluss eine Leistungsausführung
-innerhalb eines kürzeren Zeitraums, stellt dies eine Vertragsänderung
-dar. Hierdurch können Überstunden notwendig werden und/oder durch die
-Beschleunigung der Materialbeschaffung Mehrkosten auflaufen, und erhöht
-sich das Entgelt im Verhältnis zum notwendigen Mehraufwand angemessen.
-
-Sachlich (zB Anlagengröße, Baufortschritt, u.a.) gerechtfertigte
-Teillieferungen und -leistungen sind zulässig und können gesondert in
-Rechnung gestellt werden.
-
-Leistungsfristen und Termine
-
-Fristen und Termine verschieben sich bei höherer Gewalt, Streik, nicht
-vorhersehbare und von uns nicht verschuldete Verzögerung unserer
-Zulieferer oder sonstigen vergleichbaren Ereignissen, die nicht in
-unserem Einflussbereich liegen, in jenem Zeitraum, während dessen das
-entsprechende Ereignis andauert. Davon unberührt bleibt das Recht des
-Kunden auf Rücktritt vom Vertrag bei Verzögerungen die eine Bindung an
-den Vertrag unzumutbar machen.
-
-Werden der Beginn der Leistungsausführung oder die Ausführung durch dem
-Kunden zuzurechnende Umstände verzögert oder unterbrochen, insbesondere
-aufgrund der Verletzung der Mitwirkungspflichten dieser AGB, so werden
-Leistungsfristen entsprechend verlängert und vereinbarte
-Fertigstellungstermine entsprechend hinausgeschoben.
-
-Wir sind berechtigt, für die dadurch notwendige Lagerung von Materialien
-und Geräten und dergleichen in unserem Betrieb \_\_\_% des
-Rechnungsbetrages je begonnenen Monat der Leistungsverzögerung zu
-verrechnen, wobei die Verpflichtung des Kunden zur Zahlung sowie dessen
-Abnahmeobliegenheit hiervon unberührt bleibt.
-
-Unternehmerischen Kunden gegenüber sind Liefer- und
-Fertigstellungstermine nur verbindlich, wenn deren Einhaltung
-schriftlich zugesagt wurde.
-
-Bei Verzug mit der Vertragserfüllung durch uns steht dem Kunden ein
-Recht auf Rücktritt vom Vertrag nach Setzung einer angemessenen
-Nachfrist zu. Die Setzung der Nachfrist hat schriftlich (von
-unternehmerischen Kunden mittels eingeschriebenen Briefs) unter
-gleichzeitiger Androhung des Rücktritts zu erfolgen.
-
-Hinweis auf Beschränkung des Leistungsumfanges
-
-Im Rahmen von Montage- und Instandsetzungsarbeiten können Schäden (a) an
-bereits vorhandenen Beständen als Folge nicht erkennbarer Gegebenheiten
-oder Materialfehler (b) bei Stemmarbeiten in bindungslosem Mauerwerk
-entstehen. Solche Schäden sind von uns nur zu verantworten, wenn wir
-diese schuldhaft verursacht haben.
-
-Bei eloxierten und beschichteten Materialien sind Unterschiede in den
-Farbnuancen nicht ausgeschlossen.
-
-Schutzanstriche halten drei Monate.
-
-Behelfsmäßige Instandsetzung
-
-Bei behelfsmäßigen Instandsetzungen besteht lediglich eine sehr
-beschränkte und den Umständen entsprechende Haltbarkeit.
-
-Vom Kunden ist bei behelfsmäßiger Instandsetzung umgehend eine
-fachgerechte Instandsetzung zu veranlassen.
 
 Gefahrtragung
 
@@ -961,194 +676,6 @@ Rücktritt vom Vertrag, wenn dieser ausdrücklich erklärt wird.
 Die zurückgenommene Vorbehaltsware dürfen wir gegenüber
 unternehmerischen Kunden freihändig und bestmöglich verwerten.
 
-Schutzrechte Dritter
-
-Bringt der Kunde geistige Schöpfungen oder Unterlagen bei und werden
-hinsichtlich solcher Schöpfungen, Schutzrechte Dritter geltend gemacht,
-so sind wir berechtigt, die Herstellung des Liefergegenstandes auf
-Risiko des Auftraggebers bis zur Klärung der Rechte Dritter
-einzustellen, und den Ersatz der von uns aufgewendeten notwendigen und
-zweckentsprechenden Kosten zu beanspruchen, außer die Unberechtigtheit
-der Ansprüche ist offenkundig.
-
-Der Kunde hält uns diesbezüglich schad- und klaglos.
-
-Wir sind berechtigt, von unternehmerischen Kunden für allfällige
-Prozesskosten angemessene Kostenvorschüsse zu verlangen.
-
-15.4. Für Liefergegenstände, welche wir nach Kundenunterlagen
-(Konstruktionsangaben, Zeichnungen, Modelle oder sonstige
-Spezifikationen, etc) herstellen, übernimmt ausschließlich der Kunde die
-Gewähr, dass die Anfertigung dieser Liefergegenstände Schutzrechte
-Dritter nicht verletzt werden.
-
-15.5. Werden Schutzrechte Dritter dennoch geltend gemacht, so sind wir
-berechtigt, die Herstellung der Liefergegenstände auf Risiko des
-Auftraggebers bis zur Klärung der Rechte Dritter einzustellen, außer die
-Unberechtigtheit der Ansprüche ist offenkundig.
-
-15.6. Ebenso können wir den Ersatz von uns aufgewendeter notwendiger und
-nützlicher Kosten vom Kunden beanspruchen.
-
-Unser geistiges Eigentum
-
-Pläne, Skizzen, Kostenvoranschläge und sonstige Unterlagen, die von uns
-beigestellt oder durch unseren Beitrag entstanden sind, bleiben unser
-geistiges Eigentum.
-
-Die Verwendung solcher Unterlagen außerhalb der bestimmungsgemäßen
-Nutzung, insbesondere die Weitergabe, Vervielfältigung, Veröffentlichung
-und Zur-Verfügung-Stellung einschließlich auch nur auszugsweisen
-Kopierens bedarf unserer ausdrücklichen Zustimmung.
-
-Der Kunde verpflichtet sich weiters zur Geheimhaltung des ihm aus der
-Geschäftsbeziehung zugegangenen Wissens Dritten gegenüber.
-
-Wurden von uns im Rahmen von Vertragsanbahnung, -Abschluss und
---Abwicklung dem Kunden Gegenstände ausgehändigt, welche nicht im Rahmen
-der Leistungsausführung geschuldet wurden (zB Farb-,
-Sicherheitsbeschlagmuster, Beleuchtungskörper, etc), sind diese binnen
-14 Tagen an uns zurückzustellen. Kommt der Kunde einer entsprechenden
-Aufforderung nicht fristgerecht nach, dürfen wir einen pauschalierten
-Schadenersatz in Höhe von \_\_\_\_\_\_ des Wertes des ausgehändigten
-Gegenstände ohne Nachweis des tatsächlichen Schadens vom Kunden
-verlangen. Die Verpflichtung zur Zahlung eines Schadenersatzes ist im
-Falle eines Unternehmers vom Verschulden unabhängig.
-
-Gewährleistung
-
-Es gelten die Bestimmungen über die gesetzliche Gewährleistung. Die
-Gewährleistungsfrist für unsere Leistungen beträgt gegenüber
-unternehmerischen Kunden ein Jahr ab Übergabe.
-
-Der Zeitpunkt der Übergabe ist mangels abweichender Vereinbarung (z.B.
-förmliche Abnahme) der Fertigstellungszeitpunkt, spätestens wenn der
-Kunde die Leistung in seine Verfügungsmacht übernommen hat oder die
-Übernahme ohne Angabe von Gründen verweigert hat.
-
-Ist eine gemeinsame Übergabe vorgesehen, und bleibt der Kunde dem ihm
-mitgeteilten Übergabetermin fern, gilt die Übernahme als an diesem Tag
-erfolgt.
-
-Behebungen eines vom Kunden behaupteten Mangels stellen kein
-Anerkenntnis dieses vom Kunden behauptenden Mangels dar.
-
-Zur Mängelbehebung sind uns seitens des unternehmerischen Kunden
-zumindest zwei Versuche einzuräumen.
-
-Sind die Mängelbehauptungen des Kunden unberechtigt, ist der Kunde
-verpflichtet, uns entstandene Aufwendungen für die Feststellung der
-Mängelfreiheit oder Fehlerbehebung zu ersetzen.
-
-Der unternehmerische Kunde hat stets zu beweisen, dass der Mangel zum
-Übergabezeitpunkt bereits vorhanden war.
-
-Zur Behebung von Mängeln hat der Kunde die Anlage bzw. die Geräte ohne
-schuldhafte Verzögerung uns zugänglich zu machen und uns die Möglichkeit
-zur Begutachtung durch uns oder von uns bestellten Sachverständigen
-einzuräumen.
-
-Mängel am Liefergegenstand, die der unternehmerische Kunde bei
-ordnungsgemäßem Geschäftsgang nach Ablieferung durch Untersuchung
-festgestellt hat oder feststellen hätte müssen sind unverzüglich,
-spätestens \_\_\_\_\_\_ Tage nach Übergabe an uns schriftlich
-anzuzeigen. Versteckte Mängel müssen ebenfalls in dieser angemessenen
-Frist ab Entdecken angezeigt werden.
-
-Eine etwaige Nutzung oder Verarbeitung des mangelhaften
-Leistungsgegenstandes, durch welche ein weitergehender Schaden droht
-oder eine Ursachenerhebung erschwert oder verhindert wird, ist vom
-Kunden unverzüglich einzustellen, soweit dies nicht unzumutbar ist.
-
-Wird eine Mängelrüge nicht rechtzeitig erhoben, gilt die Ware als
-genehmigt.
-
-Sind Mängelbehauptungen des Kunden unberechtigt, ist er verpflichtet,
-uns entstandene Aufwendungen für die Feststellung der Mängelfreiheit
-oder Fehlerbehebung zu ersetzen.
-
-Eine etwaige Nutzung oder Verarbeitung des mangelhaften
-Liefergegenstandes, durch welche ein weitergehender Schaden droht oder
-eine Ursachenbehebung erschwert oder verhindert wird, ist vom Kunden
-unverzüglich einzustellen, soweit dies nicht unzumutbar ist.
-
-Ein Wandlungsbegehren können wir durch Verbesserung oder angemessene
-Preisminderung abwenden, sofern es sich um keinen wesentlichen und
-unbehebbaren Mangel handelt.
-
-Werden die Leistungsgegenstände aufgrund von Angaben, Zeichnungen,
-Plänen, Modellen oder sonstigen Spezifikationen des Kunden hergestellt,
-so leisten wir nur für die bedingungsgemäße Ausführung Gewähr.
-
-Keinen Mangel begründet der Umstand, dass das Werk zum vereinbarten
-Gebrauch nicht voll geeignet ist, wenn dies ausschließlich auf
-abweichende tatsächliche Gegebenheiten von den uns im Zeitpunkt der
-Leistungserbringung vorgelegenen Informationen basiert, weil der Kunde
-seinen Mitwirkungspflichten nicht nachkommt.
-
-Die mangelhafte Lieferung oder Proben davon sind -- sofern
-wirtschaftlich vertretbar -- vom unternehmerischen Kunden an uns zu
-retournieren.
-
-Die Kosten für den Rücktransport der mangelhaften Sache an uns trägt zur
-Gänze der unternehmerische Kunde.
-
-Den Kunden trifft die Obliegenheit, eine unverzügliche
-Mangelfeststellung durch uns zu ermöglichen.
-
-Die Gewährleistung ist ausgeschlossen, wenn die technischen Anlagen des
-Kunden wie etwa Zuleitungen, Verkabelungen u.ä. nicht in technisch
-einwandfreiem und betriebsbereitem Zustand oder mit den gelieferten
-Gegenständen nicht kompatibel sind, soweit dieser Umstand kausal für den
-Mangel ist.
-
-Haftung
-
-Wegen Verletzung vertraglicher oder vorvertraglicher Pflichten,
-insbesondere wegen Unmöglichkeit, Verzug etc. haften wir bei
-Vermögensschäden nur in Fällen von Vorsatz oder grober Fahrlässigkeit.
-
-Gegenüber unternehmerischen Kunden ist die Haftung beschränkt mit dem
-Haftungshöchstbetrag einer allenfalls durch uns abgeschlossenen
-Haftpflichtversicherung.
-
-Diese Beschränkung gilt auch hinsichtlich des Schadens an einer Sache,
-die wir zur Bearbeitung übernommen haben. Gegenüber Verbrauchern gilt
-dies jedoch nur dann, wenn dies einzelvertraglich ausgehandelt wurde.
-
-Schadenersatzansprüche unternehmerischer Kunden sind bei sonstigem
-Verfall binnen zwei Jahre gerichtlich geltend zu machen.
-
-Der Haftungsausschluss umfasst auch Ansprüche gegen unsere Mitarbeiter,
-Vertreter und Erfüllungsgehilfe aufgrund Schädigungen, die diese dem
-Kunden ohne Bezug auf einen Vertrag ihrerseits mit dem Kunden zufügen.
-
-Unsere Haftung ist ausgeschlossen für Schäden durch unsachgemäße
-Behandlung oder Lagerung, Überbeanspruchung, Nichtbefolgen von
-Bedienungs- und Installationsvorschriften, fehlerhafter Montage,
-Inbetriebnahme, Wartung, Instandhaltung durch den Kunden oder nicht von
-uns autorisierte Dritte, oder natürliche Abnutzung, sofern dieses
-Ereignis kausal für den Schaden war. Ebenso besteht der
-Haftungsausschluss für Unterlassung notwendiger Wartungen, sofern wir
-nicht vertraglich die Pflicht zur Wartung übernommen haben.
-
-Wenn und soweit der Kunde für Schäden, für die wir haften,
-Versicherungsleistungen durch eine eigene oder zu seinen Gunsten
-abgeschlossen Schadenversicherung (z.B. Haftpflichtversicherung, Kasko,
-Transport, Feuer, Betriebsunterbrechung und andere) in Anspruch nehmen
-kann, verpflichtet sich der Kunde zur Inanspruchnahme der
-Versicherungsleistung und beschränkt sich unsere Haftung insoweit auf
-die Nachteile, die dem Kunden durch die Inanspruchnahme dieser
-Versicherung entstehen (z.B. höhere Versicherungsprämie).
-
-Jene Produkteigenschaften werden geschuldet, die im Hinblick auf die
-Zulassungsvorschriften, Bedienungsanleitungen und sonstige
-produktbezogene Anleitungen und Hinweise (insbesondere auch Kontrolle
-und Wartung) von uns, dritten Herstellern oder Importeuren vom Kunden
-unter Berücksichtigung dessen Kenntnisse und Erfahrungen erwartet werden
-können. Der Kunde als Weiterverkäufer hat eine ausreichende Versicherung
-für Produkthaftungsansprüche abzuschließen und uns hinsichtlich
-Regressansprüchen schad- und klaglos zu halten.
 
 Salvatorische Klausel
 ---------------------
