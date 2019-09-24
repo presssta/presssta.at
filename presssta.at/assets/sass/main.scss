@@ -863,11 +863,21 @@ h1.headline {
     margin: 1em 0;
     padding: 0;
     .socialnav__item {
-      margin: 0 .7em;
+      margin: 0 1.2em;
+      opacity: .6;
+      transition: opacity .3s linear;
+      &:hover {
+        opacity: 1;
+      }
       @media(min-width: 992px) {
-        margin: 0 0 0 1em;
+        margin: 0 0 0 1.8em;
+        opacity: 1;
       }
       padding: 0;
+    }
+    .socialnav__icon {
+      width: 28px;
+      height: 28px;
     }
   }
 }
