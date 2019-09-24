@@ -1,10 +1,6 @@
 +++
 title = "AGBs"
-header = "unternehmen/erfinder/HB-Erfinder.jpg"
-headline = "AGB"
 +++
-
-todo: da brauchen wir kein bild und damit auch keine hedline agb - bitte streichen
 
 # Allgemeine Geschäfts-/Lieferbedingungen der ÖKOEFF - Ökoeffiziente Energietechnik GmbH  für die Lieferung von presssta Pressstanzwerkzeugen, Ersatzteilen und Clips
 
@@ -558,7 +554,7 @@ Ungeachtet des Übergangs von Preis- und Leistungsgefahr oder sonstiger Bestimmu
         rechtswirksamer Weise am nächsten kommt. Auf gleiche Weise sind
         Vertragslücken zu füllen.
 
-Andere Texte / Überbleibsel aus anderen AGBs
+to do Walter Schafhuber: bitte lesen und kommentieren Andere Texte / Überbleibsel aus anderen AGBs
 ============================================
 
 Angebot/Vertragsabschluss
