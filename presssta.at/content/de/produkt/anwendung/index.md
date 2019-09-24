@@ -5,7 +5,7 @@ headline = "Die Anwendung"
 +++
 
 ## Das Presssta-System ist ein Pressstanzwerkzeug, welches – mittels Verwendung einer handelsüblichen Fittingpressmaschine – binnen kürzester Zeit, saubere und vor allem normgerecht ausgeführte Löcher in Trockenbau-Ständerprofile stanzt. Die mitgelieferten Clips sorgen für eine hervorragende Führung des Rohres und schützen es vor Verletzungen während des Verlegens. So sparen Installateure Zeit und bares Geld.  
-## Erleben Sie die einfache Handhabung in folgendem Video
+## Erleben Sie die einfache Handhabung in folgendem Video:
 
 {{% video src="Anwendungsvideo-fnf" %}}
 
@@ -26,10 +26,7 @@ __[Bedienungsanleitung zum Download](../service-news/downloads/Bedienungsanleitu
 ## Bedienungsanleitung für PRESSSTA Stanzwerkzeug V3.1
 
 
-Das __PRESSSTA__ Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen
-eingesetzt und wurde zur Herstellung von runden Löchern in U- oder C-Profilen aus Stahlblech
-für den Trockenbau, mit einer Blechstärke von ca. 0,5 bis 0,8 mm, ausgelegt. Die zu bewältigende
-Blechstärke ist abhängig von der Leistung der Antriebsmaschine.
+Das __PRESSSTA__ Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen eingesetzt und wurde zur Herstellung von runden Löchern in U- oder C-Profilen aus Stahlblech für den Trockenbau, mit einer Blechstärke von ca. 0,5 bis 0,8 mm, ausgelegt. Die zu bewältigende Blechstärke ist abhängig von der Leistung der Antriebsmaschine.
 
 -   Die Grundausstattung ist für einen Lochdurchmesser von 58 mm
     ausgerüstet. Stempel und Matrize sind auswechselbar. Optional sind
