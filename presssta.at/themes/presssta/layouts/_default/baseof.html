@@ -36,8 +36,8 @@
 
 
   <!-- TODO  LOCAL JS/CSS -->
-  <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
-  <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
+  <script type="text/javascript" src="{{ "/slick.min.js" | absURL }}"></script>
+  <link rel="stylesheet" type="text/css" href="{{ "/slick.css" | absURL }}"/>
   <script>
   $(document).ready(function(){
     $('body').removeClass('nojs')
@@ -99,7 +99,6 @@
     $('body').removeClass('nav-opened');
     $('body').addClass('nav-closed');
   })
-  let test = '0';
   </script>
   {{ partial "google-analytics-async.html" . }}
   {{ partial "cookie-consent.html" . }}
