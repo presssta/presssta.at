@@ -4,6 +4,7 @@ header = "unternehmen/erfinder/HB-Erfinder.jpg"
 headline = "AGB"
 +++
 
+todo: da brauchen wir kein bild und damit auch keine hedline agb - bitte streichen
 
 # Allgemeine Geschäfts-/Lieferbedingungen der ÖKOEFF - Ökoeffiziente Energietechnik GmbH  für die Lieferung von presssta Pressstanzwerkzeugen, Ersatzteilen und Clips
 
