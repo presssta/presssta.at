@@ -22,6 +22,7 @@ Der Ingenieur für Installationstechnik kann auf 40 Jahre Branchenerfahrung – 
 
 ### Ing. Josef Schwingenschrot
 Als Maschinenbauingenieur ist Josef Schwingenschrot ein erfahrener Techniker aus Passion. Präzise ausgefeilte – und dabei einfache – Umsetzungen von schwierigen Aufgaben sind seine Leidenschaft, für die er keine Mühen scheut. Nachdem er jahrelang seine Fähigkeiten und seinen Hang zur Perfektion im Management eingesetzt hat, kehrt er mit **presssta** zu seinen Wurzeln zurück.
+todo: bitte das nachfolgende zitat auch zentriert (ist jetzt zuweit rechts):
 
 
 
