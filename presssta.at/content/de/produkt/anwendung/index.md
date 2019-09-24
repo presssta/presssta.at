@@ -5,14 +5,14 @@ headline = "Die Anwendung"
 +++
 
 ## Das Presssta-System ist ein Pressstanzwerkzeug, welches – mittels Verwendung einer handelsüblichen Fittingpressmaschine – binnen kürzester Zeit, saubere und vor allem normgerecht ausgeführte Löcher in Trockenbau-Ständerprofile stanzt. Die mitgelieferten Clips sorgen für eine hervorragende Führung des Rohres und schützen es vor Verletzungen während des Verlegens. So sparen Installateure Zeit und bares Geld.  
-## todo:h4 Erleben Sie die einfache Handhabung in folgendem Video:
+#### Erleben Sie die einfache Handhabung in folgendem Video:
 
 {{% video src="Anwendungsvideo-fnf" %}}
 
 
 ## So schnell kann‘s gehen – mit presssta!
 
-todo. h4 Die Montage auch anspruchsvoller Installationen ist mit __presssta__ normgerecht und rasch erledigt. Damit macht __presssta__ sicher: Mängel durch nicht normgerechte Verlegung gehören der Vergangenheit an.
+#### Die Montage auch anspruchsvoller Installationen ist mit __presssta__ normgerecht und rasch erledigt. Damit macht __presssta__ sicher: Mängel durch nicht normgerechte Verlegung gehören der Vergangenheit an.
 
 {{% gallery src="anleitung" %}}
 
@@ -21,16 +21,19 @@ todo. h4 Die Montage auch anspruchsvoller Installationen ist mit __presssta__ no
 
 ## Bedienungsanleitung für PRESSSTA Stanzwerkzeug V3.1
 
-__[Bedienungsanleitung zum Download](../service-news/downloads/Bedienungsanleitung-Presssta-ok.pdf)__
+## __[Bedienungsanleitung zum Download](../service-news/downloads/Bedienungsanleitung-Presssta-ok.pdf)__
 
 
 #### Das __presssta__ Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen eingesetzt und wurde zur Herstellung von runden Löchern in U- oder C-Profilen aus Stahlblech für den Trockenbau, mit einer Blechstärke von ca. 0,5 bis 0,8 mm, ausgelegt. Die zu bewältigende Blechstärke ist abhängig von der Leistung der Antriebsmaschine.
 
-todo: wie faqs
 
+{{% faqs %}}
+
+{{% faq %}}
+{{% q %}}
 Grundsätzliches
--------------
-
+{{% /q %}}
+{{% a %}}
 -   Die Grundausstattung ist für einen Lochdurchmesser von 58 mm
     ausgerüstet. Stempel und Matrize sind auswechselbar. Optional sind
     diese auch für Lochdurchmesser 38 mm verfügbar. Auf Wunsch werden
@@ -79,10 +82,14 @@ Anschließend die Mutter mit der abgerundeten Seite nach oben, bzw mit
 dem Bund nach unten aufschrauben und mit einer Stecknuß SW 18 mäßig
 festziehen. Die Federscheiben dienen als Sicherungen gegen lockern der
 Muttern.
+{{% /a %}}
+{{% /faq %}}
 
+{{% faq %}}
+{{% q %}}
 Arbeitsablauf
--------------
-
+{{% /q %}}
+{{% a %}}
 -   __presssta__ Stanzwerkzeug am Haltegriff und Antriebsmaschine am
     Schaltergriff festhalten.
 -   Das Stanzwerkzeug (Stempel oder Matrize) an der gewünschten Position
@@ -103,9 +110,14 @@ Während des Stanzvorganges nicht in den Arbeitsbereich von Stempel und
 Matrize greifen. Schwere Verletzungen, wie zum Beispiel Abtrennen eines
 Fingergliedes, können die Folge sein!
 
-Wartung
--------
+{{% /a %}}
+{{% /faq %}}
 
+{{% faq %}}
+{{% q %}}
+Wartung
+{{% /q %}}
+{{% a %}}
 -   Das __presssta__ Stanzwerkzeug sauber halten!
 -   Das Stanzwerkzeug hat offene Präzisionsführungen, daher nicht in
     sehr staubiger Umgebung verwenden oder im Bauschutt ablegen! In
@@ -115,10 +127,14 @@ Wartung
 -   Den Stempel regelmäßig einölen, damit der Abdrückring und die Feder
     leichter gleiten können und alles gegen Rost geschützt ist.
 -   Alle Stahlteile regelmäßig mit Spray (z.B. WD 40) vor Rost schützen.
+{{% /a %}}
+{{% /faq %}}
 
+{{% faq %}}
+{{% q %}}
 Störungen
----------
-
+{{% /q %}}
+{{% a %}}
 Generell wird empfohlen während der Garantiezeit das Stanzwerkzeug zur
 Reparatur zum Verkäufer zu bringen, da sonst keine die Gewährleistung
 übernommen werden kann.
@@ -152,3 +168,7 @@ oder Öl.
     Schlitz im Führungsbolzen geben), den Pressbolzen in die Führung stecken, und in umgekehrter
     Reihenfolge wieder zusammensetzen. Dabei die richtige Einbaulage der
     Führung beachten, die Seite mit der 45° Schräge muss außen sein.
+{{% /a %}}
+{{% /faq %}}
+
+{{% /faqs %}}
