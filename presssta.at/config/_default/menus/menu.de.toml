@@ -14,74 +14,75 @@ weight = 30
 [[main]]
 parent = "Produkt"
 name = "Anwendung"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "Wie das neue und revolutionäre Pressstanzwerkzeug funktioniert"
 url = "/produkt/anwendung"
 weight = 10
 [[main]]
 parent = "Produkt"
 name = "Technische Daten"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "Welche Voraussetzungen sind notwendig?"
 url = "/produkt/technische-daten"
 weight = 20
 # [[main]]
 # parent = "Produkt"
 # name = "Ausschreibung"
-# title = "Ich bin eine Navigationsbeschreibung"
+# title = "Texte um Ihre Ausschreibung zu optimieren"
 # url = "/produkt/ausschreibungstexte"
 # weight = 30
 [[main]]
 parent = "Produkt"
 name = "FAQs"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "Wissenswertes rund um PRESSSTA"
 url = "/produkt/faqs"
 weight = 40
 [[main]]
 parent = "Produkt"
 name = "Bezugsquellen"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "Wo man PRESSSTA kaufen oder auch leihen kann"
 url = "/produkt/bezugsquellen"
 weight = 50
 [[main]]
 parent = "Produkt"
 name = "Anfrage/Bestellung"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "Das Formular zum Produkt"
 url = "/produkt/anfrage-bestellung"
 weight = 60
 
-[[main]]
-parent = "Unternehmen"
-name = "Datenschutz"
-title = "Ich bin eine Navigationsbeschreibung"
-url = "/unternehmen/datenschutz"
-weight = 55
+
 [[main]]
 parent = "Unternehmen"
 name = "Philosophie"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "Was treibt uns an?"
 url = "/unternehmen/philosophie"
 weight = 20
 #[[main]]
 #parent = "Unternehmen"
 #name = "Sitemap"
-#title = "Ich bin eine Navigationsbeschreibung"
+#title = "Alle Seiten im Überblick"
 #url = "/sitemap.xml"
 #weight = 53
 [[main]]
 parent = "Unternehmen"
 name = "Erfinder"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "Wer hats erfunden?"
 url = "/unternehmen/erfinder"
 weight = 40
 [[main]]
 parent = "Unternehmen"
 name = "Kontakt"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "get in Touch"
 url = "/unternehmen/kontakt"
 weight = 50
 [[main]]
 parent = "Unternehmen"
+name = "Datenschutz"
+title = "ist uns ein großes Anliegen"
+url = "/unternehmen/datenschutz"
+weight = 55
+[[main]]
+parent = "Unternehmen"
 name = "Impressum"
-title = "Ich bin eine Navigationsbeschreibung"
+title = "alle Fakten"
 url = "/unternehmen/impressum"
 weight = 60
 
@@ -97,13 +98,72 @@ weight = 10
 # title = "Berichte aus Presse und anderen Medien"
 # url = "/service-news/presse"
 # weight = 20
+# [[main]]
+# parent = "Service & News"
+# name = "Zeitschriften"
+# title = "Welche Magazine sich mit unserem Fach beschäftigen"
+# url = "/service-news/zeitschriften"
+# weight = 30
 [[main]]
 parent = "Service & News"
 name = "Downloads"
-title = "Welche Magazine sich mit unserem Fach beschäftigen"
+title = "Produktinfos, techn. Daten etc."
 url = "/service-news/downloads"
 weight = 30
 
+
+
+
+[[footer1]]
+name = "Unternehmen"
+url = "/unternehmen/philosophie"
+weight = 10
+[[footer1]]
+name = "Datenschutz"
+url = "/unternehmen/datenschutz"
+weight = 20
+[[footer1]]
+name = "Impressum"
+url = "/unternehmen/impressum"
+weight = 30
+[[footer1]]
+name = "AGB"
+url = "/unternehmen/agb"
+weight = 40
+
+[[footer2]]
+name = "Produkt"
+url = "/produkt/anwendung"
+weight = 50
+[[footer2]]
+name = "technische Daten"
+url = "/produkt/technische-daten"
+weight = 60
+[[footer2]]
+name = "Presse"
+url = "/service-news/presse"
+weight = 70
+[[footer2]]
+name = "Bezugsquellen"
+url = "/produkt/bezugsquellen"
+weight = 80
+
+
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com/TODO"
+weight = 10
+[[social]]
+identifier = "facebook"
+name = "Facebook"
+url = "https://facebook.com/TODO"
+weight = 10
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://youtube.com/TODO"
+weight = 10
 
 
 

@@ -4,8 +4,6 @@ header = "HB-Erfinder.jpg"
 headline = "Innovative Produkte & intelligente Systeme"
 +++
 
-
-
 ## Der wahre Wert eines Unternehmens basiert auf dem Wissen, den Fähigkeiten und den Ideen seiner Mitarbeiter. Daraus resultieren innovative Produkte. Kurze Entscheidungswege, schnelle Reaktion auf Marktveränderungen und ein Höchstmaß an Kundennähe sind die hohen Ansprüche an das eigene Unternehmen.
 
 Unserer Strategie ist dem steigenden Bedarf an Sicherheit und Qualität

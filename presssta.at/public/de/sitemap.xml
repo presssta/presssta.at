@@ -3,54 +3,134 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://i.notice.at/temp/presssta/de/</loc>
+    <loc>http://presssta.ck.si/de/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://i.notice.at/temp/presssta/de/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://i.notice.at/temp/presssta/en/categories/"
+                href="http://presssta.ck.si/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://i.notice.at/temp/presssta/de/categories/"
+                href="http://presssta.ck.si/de/"
                 />
   </url>
   
   <url>
-    <loc>https://i.notice.at/temp/presssta/de/tags/</loc>
-    <priority>0</priority>
+    <loc>http://presssta.ck.si/de/unternehmen/agb/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/produkt/anfrage-bestellung/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/produkt/anfrage-bestellung/erfolg/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/produkt/anfrage-bestellung/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/produkt/anwendung/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/produkt/ausschreibungstexte/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/produkt/bezugsquellen/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://i.notice.at/temp/presssta/en/tags/"
+                href="http://presssta.ck.si/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://i.notice.at/temp/presssta/de/tags/"
+                href="http://presssta.ck.si/de/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://i.notice.at/temp/presssta/de/</loc>
-    <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>http://presssta.ck.si/de/unternehmen/datenschutz/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/service-news/downloads/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/service-news/presse/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/unternehmen/erfinder/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/produkt/faqs/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/unternehmen/impressum/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/unternehmen/kontakt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/service-news/news/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/unternehmen/offenlegung/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/unternehmen/philosophie/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/produkt/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/service-news/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/unternehmen/sitemap/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://i.notice.at/temp/presssta/en/"
+                href="http://presssta.ck.si/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://i.notice.at/temp/presssta/de/"
+                href="http://presssta.ck.si/de/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/produkt/technische-daten/</loc>
+  </url>
+  
+  <url>
+    <loc>http://presssta.ck.si/de/unternehmen/</loc>
   </url>
   
 </urlset>

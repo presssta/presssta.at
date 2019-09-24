@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Produkt on presssta</title>
+    <link>http://presssta.ck.si/de/produkt/</link>
+    <description>Recent content in Produkt on presssta</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    
+	<atom:link href="http://presssta.ck.si/de/produkt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Anwendung</title>
+      <link>http://presssta.ck.si/de/produkt/anwendung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://presssta.ck.si/de/produkt/anwendung/</guid>
+      <description>Das Presssta-System ist ein Pressstanzwerkzeug, welches – mittels Verwendung einer handelsüblichen Fittingpressmaschine – binnen kürzester Zeit, saubere und vor allem normgerecht ausgeführte Löcher in Trockenbau-Ständerprofile stanzt. Die mitgelieferten Clips sorgen für eine hervorragende Führung des Rohres und schützen es vor Verletzungen während des Verlegens. So sparen Installateure Zeit und bares Geld. Erleben Sie die einfache Handhabung in folgendem Video    $(&#39;#video_Anwendungsvideo-fnf  video&#39;).hide(); $(&#39;#video_Anwendungsvideo-fnf  img&#39;).click( function() { $(&#39;#video_Anwendungsvideo-fnf  img&#39;).</description>
+    </item>
+    
+    <item>
+      <title>Ausschreibungstexte</title>
+      <link>http://presssta.ck.si/de/produkt/ausschreibungstexte/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://presssta.ck.si/de/produkt/ausschreibungstexte/</guid>
+      <description>TODO</description>
+    </item>
+    
+    <item>
+      <title>Bezugsquellen</title>
+      <link>http://presssta.ck.si/de/produkt/bezugsquellen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://presssta.ck.si/de/produkt/bezugsquellen/</guid>
+      <description>Das presssta-System ist erhältlich in Österreich bei: 
+König &amp;amp; Landl Gesellschaft m.b.H.
+Döblinger Hauptstraße 15
+1190 Wien
+Tel.: 01 / 479 74 84
+Email: office@koenig-landl.at</description>
+    </item>
+    
+    <item>
+      <title>FAQs</title>
+      <link>http://presssta.ck.si/de/produkt/faqs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://presssta.ck.si/de/produkt/faqs/</guid>
+      <description>Sie haben Fragen?
+Wir haben die Antworten! Hier finden Sie alle Fragen rund ums presssta-System. Wenn Sie hier keine Antwort auf Ihre Frage finden, schicken Sie uns einfach eine e-mail an office@oekoeff.at oder rufen Sie uns an unter +43 1 295 22 22. Für welche Rohrdurchmesser kann presssta eingesetzt werden?
+   Presssta kann – je nach Lochstanzaufsatz - für Rohrdurchmesser von bis zu 34/54/84mm eingesetzt werden
+  Warum ist presssta so schnell und effizient?</description>
+    </item>
+    
+    <item>
+      <title>Technische Daten</title>
+      <link>http://presssta.ck.si/de/produkt/technische-daten/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://presssta.ck.si/de/produkt/technische-daten/</guid>
+      <description>So sieht solides
+Werkzeug aus! Das PRESSSTA Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen eingesetzt und wurde zur Herstellung von runden Löchern in U- oder C-Profilen aus Stahlblech für den Trockenbau ausgelegt. Das Standardpaket umfasst Stanzwerkzeug mit einem Lochstanzaufsatz ø 58mm und 1.000 Stück grüner Clips.
+Technische Daten Pressstanzwerkzeug  Größe Stanze l x b x h = 255 x 225 x 100 mm Gewicht 2,7 kg Lochstanz-Aufsätze ø 38/58/88 mm Passend zu Fittingpressmaschinen mit einer Standardaufnahme von 36 x 33 mm Geeignet für Trockenbau-Ständerprofile, Blechstärke 0,5–0,8 mm - abhängig von der Leistung der Antriebsmaschine  Technische Daten Clip Das presssta Pressstanzwerkzeug wird mit dem Standardaufsatz ø 58 mm &amp;amp; 1.</description>
+    </item>
+    
+  </channel>
+</rss>

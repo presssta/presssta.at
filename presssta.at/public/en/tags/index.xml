@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on presssta</title>
-    <link>https://i.notice.at/temp/presssta/en/tags/</link>
+    <link>http://presssta.ck.si/en/tags/</link>
     <description>Recent content in Tags on presssta</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
     
-	<atom:link href="https://i.notice.at/temp/presssta/en/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://presssta.ck.si/en/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

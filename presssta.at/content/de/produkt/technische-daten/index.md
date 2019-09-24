@@ -6,7 +6,7 @@ headline = ""
 
 # So sieht solides<br>Werkzeug aus!
 
-Das PRESSSTA Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen 
+## Das __PRESSSTA__ Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen 
 eingesetzt und wurde zur Herstellung von runden Löchern in U- oder C-Profilen 
 aus Stahlblech für den Trockenbau ausgelegt. Das Standardpaket umfasst 
 Stanzwerkzeug mit einem Lochstanzaufsatz ø 58mm und 1.000 Stück grüner Clips.
@@ -21,6 +21,7 @@ Stanzwerkzeug mit einem Lochstanzaufsatz ø 58mm und 1.000 Stück grüner Clips.
 
 ## Technische Daten Clip
 
+Das __presssta__ Pressstanzwerkzeug wird mit dem Standardaufsatz ø 58 mm & 1.000 Stück grüner Clips (rundes Bild) geliefert.  
 Der Clip ist derzeit für den Standarddurchmesser von 58 mm erhältlich, um Rohre inkl. Isolierung bis zu einem Durchmesser von 54 mm zu verlegen.
 
 

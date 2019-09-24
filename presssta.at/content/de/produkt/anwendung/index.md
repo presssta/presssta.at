@@ -4,19 +4,29 @@ header = "HB-Anwendung.jpg"
 headline = "Die Anwendung"
 +++
 
-
+## Das Presssta-System ist ein Pressstanzwerkzeug, welches – mittels Verwendung einer handelsüblichen Fittingpressmaschine – binnen kürzester Zeit, saubere und vor allem normgerecht ausgeführte Löcher in Trockenbau-Ständerprofile stanzt. Die mitgelieferten Clips sorgen für eine hervorragende Führung des Rohres und schützen es vor Verletzungen während des Verlegens. So sparen Installateure Zeit und bares Geld.  
+## Erleben Sie die einfache Handhabung in folgendem Video
 
 {{% video src="Anwendungsvideo-fnf" %}}
 
-# Schnell.Sicher.Stanzen 
 
-## Bedienungsanleitung für PRESSSTA Stanzwerkzeug V3.1
+## So schnell kann‘s gehen – mit presssta
+
+Die Montage auch anspruchsvoller Installationen ist mit __presssta__ normgerecht und rasch erledigt. Damit macht __presssta__ sicher: Mängel durch nicht normgerechte Verlegung gehören der Vergangenheit an.
 
 {{% gallery src="anleitung" %}}
 
 
 
-Das PRESSSTA Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen
+__[Bedienungsanleitung zum Download](../service-news/downloads/Bedienungsanleitung-Presssta-ok.pdf)__
+
+
+# Schnell.Sicher.Stanzen 
+
+## Bedienungsanleitung für PRESSSTA Stanzwerkzeug V3.1
+
+
+Das __PRESSSTA__ Stanzwerkzeug wird in Verbindung mit Fittingpressmaschinen
 eingesetzt und wurde zur Herstellung von runden Löchern in U- oder C-Profilen aus Stahlblech
 für den Trockenbau, mit einer Blechstärke von ca. 0,5 bis 0,8 mm, ausgelegt. Die zu bewältigende
 Blechstärke ist abhängig von der Leistung der Antriebsmaschine.
@@ -26,35 +36,35 @@ Blechstärke ist abhängig von der Leistung der Antriebsmaschine.
     diese auch für Lochdurchmesser 38 mm verfügbar. Auf Wunsch werden
     auch Stempel und Matrize für bis zu 88 mm Lochdurchmesser
     hergestellt.
--   Das PRESSSTA Stanzwerkzeug ist für Antriebsmaschinen für
+-   Das __PRESSSTA__ Stanzwerkzeug ist für Antriebsmaschinen für
     Rohrpresszangen mit der Standardaufnahme von 36 x 33 mm und 14 mm
     Durchmesser des Zangenhaltebolzens ausgelegt.
 -   Der Hub des Rollenstempels muss 40 bis 42 mm betragen.
 -   Diese Antriebsmaschinen sind üblicherweise für das verpressen der
     Pressfitting-Systeme an Stahlrohren bis zu 108 mm Durchmesser
     geeignet.
--   Vor der Verwendung des PRESSSTA Stanzwerkzeuges überprüfen, ob es
+-   Vor der Verwendung des __PRESSSTA__ Stanzwerkzeuges überprüfen, ob es
     für die gewählte Antriebsmaschine geeignet ist.
--   Das PRESSSTA Stanzwerkzeug wird anstelle der Presszange in die
+-   Das __PRESSSTA__ Stanzwerkzeug wird anstelle der Presszange in die
     Pressmaschine eingesetzt. Für die Verwendung des Stanzwerkzeuges an den
     Pressmaschinen gelten die gleichen Bedingungen wie für die
     Verwendung von Presszangen. Es sind daher die Betriebsanleitung und
     die Sicherheitshinweise für die Pressmaschinen in vollem Umfang zu
     beachten.
--   PRESSSTA Stanzwerkzeuge nur bestimmungsgemäß zur Herstellung von
+-   __PRESSSTA__ Stanzwerkzeuge nur bestimmungsgemäß zur Herstellung von
     Löchern in U- oder C-Profilen aus Stahlblech für den Trockenbau
     verwenden.
 -   Es dürfen nur Vollkreise ausgestanzt werden. Für die einseitige
     Belastung beim Ausstanzen eines Halbkreises oder Teilkreises ist das
     Stanzwerkzeug nicht geeignet!!!
 -   Während der Verwendung der Antriebsmaschine mit aufgesetztem
-    PRESSSTA Stanzwerkzeug dieses nur am Haltegriff und die
+    __PRESSSTA__ Stanzwerkzeug dieses nur am Haltegriff und die
     Antriebsmaschine am Schaltergriff festhalten.\
     Nicht in sich bewegende Teile (Stanzbereich) greifen!
--   Das Einsetzen des PRESSSTA Stanzwerkzeuges in die Antriebsmaschine
+-   Das Einsetzen des __PRESSSTA__ Stanzwerkzeuges in die Antriebsmaschine
     erfolgt gleich wie das Einsetzen der Presszange. Anleitung des
     Herstellers der Antriebsmaschine beachten!
--   Vor jeder Verwendung des PRESSSTA Stanzwerkzeuges überprüfen ob die
+-   Vor jeder Verwendung des __PRESSSTA__ Stanzwerkzeuges überprüfen ob die
     Muttern zur Befestigung von Stempel und Matrize festgezogen sind und
     Stempel und Matrize auf Beschädigung prüfen.
 -   Lockere Stempel und Matrizen können dazu führen, dass beim
@@ -73,7 +83,7 @@ Muttern.
 Arbeitsablauf
 -------------
 
--   PRESSSTA Stanzwerkzeug am Haltegriff und Antriebsmaschine am
+-   __PRESSSTA__ Stanzwerkzeug am Haltegriff und Antriebsmaschine am
     Schaltergriff festhalten.
 -   Das Stanzwerkzeug (Stempel oder Matrize) an der gewünschten Position
     in das Profil einfädeln, in etwa rechtwinkelig ausrichten. Die
@@ -96,7 +106,7 @@ Fingergliedes, können die Folge sein!
 Wartung
 -------
 
--   Das PRESSSTA Stanzwerkzeug sauber halten!
+-   Das __PRESSSTA__ Stanzwerkzeug sauber halten!
 -   Das Stanzwerkzeug hat offene Präzisionsführungen, daher nicht in
     sehr staubiger Umgebung verwenden oder im Bauschutt ablegen! In
     sauberer und trockener Umgebung lagern und transportieren.

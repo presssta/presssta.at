@@ -3,47 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://i.notice.at/temp/presssta/en/categories/</loc>
-    <priority>0</priority>
+    <loc>http://presssta.ck.si/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://i.notice.at/temp/presssta/de/categories/"
+                href="http://presssta.ck.si/de/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://i.notice.at/temp/presssta/en/categories/"
+                href="http://presssta.ck.si/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://i.notice.at/temp/presssta/en/tags/</loc>
-    <priority>0</priority>
+    <loc>http://presssta.ck.si/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://i.notice.at/temp/presssta/de/tags/"
+                href="http://presssta.ck.si/de/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://i.notice.at/temp/presssta/en/tags/"
+                href="http://presssta.ck.si/en/"
                 />
   </url>
   
   <url>
-    <loc>https://i.notice.at/temp/presssta/en/</loc>
-    <priority>0</priority>
+    <loc>http://presssta.ck.si/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://i.notice.at/temp/presssta/de/"
+                href="http://presssta.ck.si/de/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://i.notice.at/temp/presssta/en/"
+                href="http://presssta.ck.si/en/tags/"
                 />
   </url>
   

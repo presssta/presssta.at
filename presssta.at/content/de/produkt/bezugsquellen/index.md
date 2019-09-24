@@ -5,10 +5,9 @@ headline = "Bezugsquellen"
 +++
 
 
-Das presssta-System ist erhältlich in Österreich bei:
+### Das presssta-System ist erhältlich in Österreich bei:
 
-[![König und Landl](Koenig-und-Landl.gif)  
-König und Landl](https://www.koenig-landl.at)
+[![König und Landl](Koenig-und-Landl.gif)](https://www.koenig-landl.at)
 
 König & Landl Gesellschaft m.b.H.  
 Döblinger Hauptstraße 15  

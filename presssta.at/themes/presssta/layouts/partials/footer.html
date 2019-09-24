@@ -1,0 +1,51 @@
+<footer class="sitefooter">
+  <div class="container">
+    <div class="sitefooter__content">
+      
+      <a href="/" class="footer__logo">
+        <img class="footer__logoimg" src="{{ "/presssta-logo-white.svg" | absURL }}" alt="">
+      </a>
+      <div class="footer__dotlists">
+        <ul class="footer__contact">
+          <li>Wagner-Schönkirch-Gasse 9</li>
+          <li>1230 Wien, Austria </li>
+          <li>Tel +43 1 295 22 22</li>
+          <li><strong><a href="mailto:office@presssta.at">office@presssta.at</a></strong></li>
+        </ul>
+        <ul class="footer__nav">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.footer1 }}
+          <li class="footernav__el {{ if $currentPage.HasMenuCurrent "footer1" . }}active{{ end }}">
+            <a class="footernav__link" href="{{ .URL | absLangURL }}">
+              {{ .Pre }}
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+        <ul class="footer__nav">
+          {{ $currentPage := . }}
+          {{ range .Site.Menus.footer2 }}
+          <li class="footernav__el {{ if $currentPage.HasMenuCurrent "footer2" . }}active{{ end }}">
+            <a class="footernav__link" href="{{ .URL | absLangURL }}">
+              {{ .Pre }}
+              {{ .Name }}
+            </a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <ul class="footer__socialnav">
+        {{ range .Site.Menus.social }}
+        <li class="socialnav__item">
+          <a href="{{ .URL }}" target="_blank" class="socialnav__link">
+            <img src="/social--{{ .Identifier }}.svg" class="socialnav__icon" alt="{{ .Name }}">
+          </a>
+        </li>
+        {{ end }}
+      </ul>
+
+    </div>
+
+  </div>
+</footer>

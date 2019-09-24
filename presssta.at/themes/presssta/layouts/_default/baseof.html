@@ -4,7 +4,7 @@
 {{ partial "head.html" . }}
 {{ partial "bootstrap-js.html" . }}
 
-<body class="nojs">
+<body class="nojs page-{{.File.ContentBaseName}}">
   {{ partial "nav.html" . }}
   {{ if .Params.Header }}
   <div class="bigimage" style="background-image: url({{ .Params.Header | relLangURL }})">
@@ -32,12 +32,19 @@
     </article>
   </div>
 
+  {{ partial "footer.html" . }}
+
+
   <!-- TODO  LOCAL JS/CSS -->
   <script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
   <link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css"/>
   <script>
   $(document).ready(function(){
     $('body').removeClass('nojs')
+
+    $(document.links).filter(function() {
+        return this.hostname != window.location.hostname;
+    }).attr('target', '_blank');
     
     var mainnavCats = $('.mainnav__el ')
     mainnavCats.click(function() {
@@ -83,6 +90,15 @@
       return false;
     });
   });
+  
+  $('.custom-navbar').on('show.bs.collapse', function () {
+    $('body').removeClass('nav-closed');
+    $('body').addClass('nav-opened');
+  })
+  $('.custom-navbar').on('hidden.bs.collapse', function () {
+    $('body').removeClass('nav-opened');
+    $('body').addClass('nav-closed');
+  })
   </script>
 
   {{ partial "google-analytics-async.html" . }}
