@@ -5,14 +5,14 @@ headline = "Die Anwendung"
 +++
 
 ## Das Presssta-System ist ein Pressstanzwerkzeug, welches – mittels Verwendung einer handelsüblichen Fittingpressmaschine – binnen kürzester Zeit, saubere und vor allem normgerecht ausgeführte Löcher in Trockenbau-Ständerprofile stanzt. Die mitgelieferten Clips sorgen für eine hervorragende Führung des Rohres und schützen es vor Verletzungen während des Verlegens. So sparen Installateure Zeit und bares Geld.  
-## Erleben Sie die einfache Handhabung in folgendem Video:
+## todo:h4 Erleben Sie die einfache Handhabung in folgendem Video:
 
 {{% video src="Anwendungsvideo-fnf" %}}
 
 
 ## So schnell kann‘s gehen – mit presssta!
 
-Die Montage auch anspruchsvoller Installationen ist mit __presssta__ normgerecht und rasch erledigt. Damit macht __presssta__ sicher: Mängel durch nicht normgerechte Verlegung gehören der Vergangenheit an.
+todo. h4 Die Montage auch anspruchsvoller Installationen ist mit __presssta__ normgerecht und rasch erledigt. Damit macht __presssta__ sicher: Mängel durch nicht normgerechte Verlegung gehören der Vergangenheit an.
 
 {{% gallery src="anleitung" %}}
 
@@ -107,7 +107,7 @@ Fingergliedes, können die Folge sein!
 Wartung
 -------
 
--   Das __PRESSSTA__ Stanzwerkzeug sauber halten!
+-   Das __presssta__ Stanzwerkzeug sauber halten!
 -   Das Stanzwerkzeug hat offene Präzisionsführungen, daher nicht in
     sehr staubiger Umgebung verwenden oder im Bauschutt ablegen! In
     sauberer und trockener Umgebung lagern und transportieren.
@@ -126,9 +126,9 @@ Reparatur zum Verkäufer zu bringen, da sonst keine die Gewährleistung
 
 ### Klemmende oder fest steckende Pressbolzen
 
--   Das Stanzwerkzeug nicht mit einem Stahl-Hammer bearbeiten!
+-   Das Stanzwerkzeug nicht mit einem Stahlhammer bearbeiten!
 -   Klemmende oder fest steckende Pressbolzen nicht nach dem
-    herausschlagen abschleifen und wieder einbauen. Damit ist keine
+    Herausschlagen abschleifen und wieder einbauen. Damit ist keine
     exakte Führung von Stempel und Matrize mehr gegeben und die beiden
     Teile werden bei weiterer Verwendung zerstört!
 -   Feststeckende Pressbolzen versuchen mit leichten Schlägen mit einem
@@ -148,10 +148,8 @@ oder Öl.
 
 1.  Stempel oder/und Matrize entfernen
 2.  Die acht Senkkopfschrauben jeder Führung entfernen und die Führungen
-    mit den Pressbolzen\
-    nach oben herausziehen.
+    mit den Pressbolzen nach oben herausziehen.
 3.  Alles gründlich reinigen, gut einfetten (reichlich Fett in den
-    Schlitz im Führungsbolzen geben),\
-    den Pressbolzen in die Führung stecken, und in umgekehrter
+    Schlitz im Führungsbolzen geben), den Pressbolzen in die Führung stecken, und in umgekehrter
     Reihenfolge wieder zusammensetzen. Dabei die richtige Einbaulage der
     Führung beachten, die Seite mit der 45° Schräge muss außen sein.
