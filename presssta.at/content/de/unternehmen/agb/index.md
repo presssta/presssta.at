@@ -15,7 +15,7 @@ b.  Im Falle von Widersprüchen zwischen unseren AGB und etwaigen speziellen sch
 a.  Angebote sind stets freibleibend. Ein Vertrag kommt nicht vor der Absendung unserer schriftlichen Auftragsbestätigung an den Käufer zustande. Die Auftragsbestätigung allein ist für Inhalt und Umfang des Rechtsgeschäftes maßgeblich. Die Zustimmung des Käufers kann ausdrücklich oder schlüssig erfolgen. 
 
 b.  Soweit Angebote auf Basis der vom Käufer zur Verfügung gestellten Informationen erstellt wurden, übernehmen wir hinsichtlich deren Richtigkeit und/oder Vollständigkeit keine Verantwortung. Änderungen nach Vertragsschluss können nur bei Zumutbarkeit und unter der Bedingung akzeptiert werden, dass sämtliche damit verbundene Folgen (insbesondere Liefertermin und Preis) angemessen berücksichtigt werden. 
-
+    
 ## 3.  Informations- und Mitwirkungspflichten
 
 a.  Der Käufer hat uns bereits vor Vertragsabschluss auf die gesetzlichen, behördlichen und auf alle anderen Vorschriften aufmerksam zu machen, welche die Vertragserfüllung beeinträchtigen könnte, wie zum Beispiel jene bezüglich der Lieferung, die Montage, den Betrieb, Krankheits- und Unfallverhütung sowie devisenrechtliche, export- bzw. importbeschränkende Bestimmungen. Der Käufer hat alle erforderlichen behördlichen Bewilligungen auf eigene Gefahr und Kosten rechtzeitig zu beschaffen.
@@ -39,7 +39,7 @@ c.  Soweit nicht anders zwischen den Parteien schriftlich vereinbart, hat der K�
 d.  Zahlungen sind ohne jeden Abzug und in der Rechnung angegebenen Währung durch Bank-überweisung zu leisten. Wechsel- und/oder Scheckzahlung werden nicht als Erfüllung der Zahlungspflicht anerkannt. 
 
 e.	Eine Zahlung gilt an dem Tag als geleistet, an dem wir über den Kaufpreis verfügen können. Eine allfällige Annahme von Scheck oder Wechsel erfolgt stets nur zahlungshalber. Alle damit im Zusammenhang stehenden Zinsen und Spesen (z.B. Einziehungs- und Diskontspesen) gehen zu Lasten des Käufers. Zahlungen des Käufers werden – unabhängig von der jeweiligen Zahlungswidmung – zuerst auf Inkassokosten und Zinsen und dann auf die jeweils älteste Verbindlichkeit des Käufers angerechnet.
-
+    
 f.	Es kann zwischen den Vertragsparteien vereinbart sein, dass der Käufer über seine Bank (oder eine für uns akzeptable [andere] Bank) ein Dokumentenakkreditiv zu eröffnen hat. In diesem Einzelfall ist festgelegt, dass die Akkreditiveröffnung in Übereinstimmung mit den Allgemeinen Richtlinien und Gebräuchen für Dokumentenakkreditive in der zum Zeitpunkt des Vertragsschlusses geltenden Fassung (derzeit ERA600) vorgenommen wird. Soweit nicht Gegenteiliges ausdrücklich vereinbart wurde, soll das Dokumentenakkreditiv unwiderruflich und auf Sicht ausgestellt sein sowie Teillieferungen erlauben. Die Akzeptanz von Dokumentenakkreditiven erfolgt stets nur zahlungshalber.
 
 g.	Nach Fälligkeit werden Verzugszinsen in der gesetzlichen Höhe berechnet. Sollte der Käufer mehr als 14 Tage mit einer Zahlung, einer Mitwirkungspflicht oder mit der Annahme der Lieferung in Verzug geraten, können wir ohne weitere Nachfristsetzung vom Vertrag zurücktreten und Schadenersatz wegen Nichterfüllung verlangen. Unbeschadet des Rechts auf weitergehenden Schadenersatz wird in einem solchen Fall eine VERTRAGSSTRAFE IN HÖHE 1/2 (DIE HÄLFTE) DES NETTOKAUFPREISES fällig. Dasselbe gilt, wenn der Käufer rechts-grundlos vom Vertrag Abstand nimmt. 
@@ -49,7 +49,7 @@ h.	Zur Aufrechnung sowie zur Ausübung von Pfand- oder Zurückbehaltungsrechten 
 ## 6.  Drittfinanzierung
 
 a.	Der Käufer hat uns längstens 4 Wochen vor Auslieferung den finanzierenden Dritten (kurz „Finanzierer“) bekanntzugeben und einen Entwurf der Abwicklungsbedingungen zu übermitteln. Wir behalten uns vor den Finanzierer ohne Angabe von Gründen abzulehnen.
-
+    
 b.	Bei drittfinanziertem Erwerb des Liefergegenstandes gelten für einen allfälligen Bei-/Eintritt des Finanzierers die mit dem Käufer vereinbarten Bedingungen sowie diese AGBs, vorbehaltlich der besonderen Bestimmungen dieses Punktes. 
 
 c.	Insofern der Finanzierer dem Liefervertrag ein- oder beitritt oder anstelle des Käufers mit uns einen Liefervertrag abschließt, erlangt dieser die gleiche Rechtsposition wie auch der Käufer, soweit nachstehend unter diesem Punkt nicht abweichend geregelt.
@@ -77,7 +77,7 @@ j.	Bedingungen des Finanzierers betreffend den Vertragseintritt bzw. Kauf und Li
 ## 7.  Lieferzeit
 
 a.	Die Einhaltung von Terminen und Fristen für die Vertragserfüllung setzt Auftragsklarheit sowie den rechtzeitigen Eingang sämtlicher vom Käufer zu liefernden Unterlagen, das Vorliegen ev. erforderlicher Genehmigungen, sowie die Einhaltung der vereinbarten Zahlungsbedingungen und sonstigen Pflichten, durch den Käufer voraus.
-
+    
 b.	Die Lieferzeit ist eingehalten, wenn der Liefergegenstand bis zu ihrem Ablauf unser Werk verlassen hat oder die Versandbereitschaft gemeldet ist. Ist eine förmliche Abnahme ausdrücklich vorgesehen, ist diese pünktlich zum Abnahmetermin, hilfsweise nach unserer Meldung über die Abnahmebereitschaft durchzuführen. 
 
 c.	Verzögert sich oder unterbleibt der Versand oder die Abnahme infolge von Umständen, die von uns nicht zu vertreten sind, treten sämtliche an den Versand oder die Abnahme anknüpfenden Rechtsfolgen (insbesondere Fälligkeiten für Zahlungen, Gefahrenübergang oder Gewährleistungs-fristbeginn) schon mit dem Zeitpunkt der Versand- oder Abnahme-bereitschaft ein. Die Abnahme darf bei Vorliegen bloß unwesentlicher Mängel nicht verweigert werden. Die Lieferfrist bzw. der -termin verlängert sich angemessen, soweit die Verspätung auf Umständen beruht, die außerhalb unserer Einflusssphäre liegen und auch unter Einsatz zumutbarer Anstrengungen nicht überwindbar sind, wie z.B. Naturkatastrophen und ähnliche Fälle höherer Gewalt, hoheitlicher Eingriffe etc. Sollte ein solcher vorgenannter Grund länger als drei (3) Monate dauern, kann der Vertrag von jeder Partei mit sofortiger Wirkung aufgelöst werden. Werden der Versand oder die Abnahme aus Gründen verzögert, die der Käufer zu vertreten hat, so können ihm die durch die Verzögerung anfallenden Kosten (z.B. Einlagerungskosten, Finanzierungskosten) angelastet werden.
@@ -93,7 +93,7 @@ b.	Unbeschadet obiger Bestimmung ist ein Vertragsrücktritt durch den Käufer in
 ## 9.  Übergang von Gefahr & Nutzen
 
 a.	Unabhängig von einer etwaig vereinbarten förmlichen Abnahme des Liefergegenstandes durch uns geht die Gefahr des zufälligen Unterganges oder Beschädigung des Liefergegenstandes (Preis- und Leistungsgefahr) in Übereinstimmung mit der vereinbarten Lieferklausel über. Abweichend davon findet der Gefahrenübergang aber schon dann statt, wenn sich der Käufer in Gläubigerverzug befindet.
-
+    
 b.	Ist eine förmliche Abnahme zwischen den Parteien vereinbart worden, so ist es dem Käufer untersagt, den Liefergegenstand oder einen Teil desselben vor Unterzeichnung des Abnahmeprotokolls zu benützen. Tut er dies dennoch ohne unsere ausdrückliche Zustimmung, ist dieses Verhalten als vorbehaltlose Annahme zu deuten.
 
 c.	Ungeachtet aller sonstigen hierin enthaltenen Bestimmungen ist der Käufer dann nicht mehr berechtigt, den Liefergegenstand zu benützen, wenn er mit fälligen Zahlungen uns gegenüber in Verzug gerät. Unbeschadet unserer sonstigen vertraglichen und gesetzlichen Rechte, Ansprüche und Rechtsbehelfe haben wir das Recht, dem Käufer (vorübergehend) den Nutzen am Liefergegenstand zu entziehen, indem wir die Maschine für die Dauer des Zahlungsverzugs abholen.
@@ -148,7 +148,7 @@ c.	Wenn der Käufer aber seinen Sitz außerhalb der Europäischen Union hat, sol
 
 ## 15. Compliance und Geschäftsethik
 
- Als Grundvoraussetzung für jede Geschäftsverbindung erachten wir sowohl die strikte Einhaltung unseres Verhaltenskodex in der jeweils gültigen Fassung (verfügbar auf unserer Webseite) als auch die Beachtung aller in diesem Zusammenhang einschlägigen Gesetze, Richtlinien, Verordnungen und ähnlicher Normen. Eine Verletzung von Bestimmungen im Sinne dieses Absatzes gilt als wesentliche Vertragsverletzung, welche uns zum Rücktritt von allen noch unerfüllten Aufträgen sowie zum umfassenden Schadenersatz berechtigt.
+Als Grundvoraussetzung für jede Geschäftsverbindung erachten wir sowohl die strikte Einhaltung unseres Verhaltenskodex in der jeweils gültigen Fassung (verfügbar auf unserer Webseite) als auch die Beachtung aller in diesem Zusammenhang einschlägigen Gesetze, Richtlinien, Verordnungen und ähnlicher Normen. Eine Verletzung von Bestimmungen im Sinne dieses Absatzes gilt als wesentliche Vertragsverletzung, welche uns zum Rücktritt von allen noch unerfüllten Aufträgen sowie zum umfassenden Schadenersatz berechtigt.
 
 ## 16. Exportkontrolle
 
