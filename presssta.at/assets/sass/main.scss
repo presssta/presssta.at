@@ -907,3 +907,37 @@ h1.headline {
     }
   }
 }
+
+.file {
+  display: block;
+  margin: .6em -.6em;
+  .file__link {
+    display: inline-flex;
+    align-items: center;
+    padding: .4em .6em;
+    border: 1px solid transparent;
+    &:hover {
+      text-decoration: none;
+      border: 1px solid $primary-color;
+      
+    }
+    .file__text {
+      display: flex;
+      flex-direction: column;
+      line-height: 1em;
+    }
+    .file__icon {
+      fill: $primary-color;
+      width: 32px;
+      margin-right: .4em;
+      font-size: .8em;
+    }
+    .file__title {
+      margin-right: .2em;
+    }
+    .file__meta {
+      color: $secondary-color;
+      font-size: .8em;
+    }
+  }
+}
