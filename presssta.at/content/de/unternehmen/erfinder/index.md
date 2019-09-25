@@ -17,12 +17,10 @@ Wie schwer es ist in Trockbau-Ständerprofile normgerechte Löcher zu machen, we
 {{% cols %}}
 ### Ing. Walter Schafhuber 
 Der Ingenieur für Installationstechnik kann auf 40 Jahre Branchenerfahrung – davon 35 Jahre als Unternehmer – zurückblicken. Er kennt die Herausforderungen vor Ort auf der Baustelle und die sich ständig ändernden Ansprüche, die durch neue Normen und Gesetze erwachsen. Seine Leidenschaft gilt der Optimierung von Prozessen und der Erleichterung von Arbeitsabläufen, die er in immer wieder neuen Ideen umsetzt. Sein letztes „Baby" ist das **presssta**-System.
-
 ||
-
 ### Ing. Josef Schwingenschrot
 Als Maschinenbauingenieur ist Josef Schwingenschrot ein erfahrener Techniker aus Passion. Präzise ausgefeilte – und dabei einfache – Umsetzungen von schwierigen Aufgaben sind seine Leidenschaft, für die er keine Mühen scheut. Nachdem er jahrelang seine Fähigkeiten und seinen Hang zur Perfektion im Management eingesetzt hat, kehrt er mit **presssta** zu seinen Wurzeln zurück.
-todo: bitte das nachfolgende zitat auch zentriert (ist jetzt zuweit rechts):
+{{% /cols %}}
 
 
 

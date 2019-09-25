@@ -23,4 +23,5 @@ Walter Schafhuber
 Wagner-Schönkirch-Gasse 9  
 1230 Wien
 
-todo: bitte hier einen zurück-button einfügen.
+
+__[Zurück zum Impressum]({{% ref "/unternehmen/impressum" %}})__

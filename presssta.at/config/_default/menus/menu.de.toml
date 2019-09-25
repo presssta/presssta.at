@@ -64,7 +64,7 @@ weight = 20
 [[main]]
 parent = "Unternehmen"
 name = "Erfinder"
-title = "Wer hats erfunden?"
+title = "Wer hat's erfunden?"
 url = "/unternehmen/erfinder"
 weight = 40
 [[main]]
@@ -89,7 +89,7 @@ weight = 60
 [[main]]
 parent = "Service & News"
 name = "News"
-title = "Neues, interessantes & lesensertes"
+title = "Neues, interessantes & lesenswertes"
 url = "/service-news/news"
 weight = 10
 # [[main]]
