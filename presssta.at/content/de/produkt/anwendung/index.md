@@ -5,12 +5,12 @@ headline = "Die Anwendung"
 +++
 
 ## Das Presssta-System ist ein Pressstanzwerkzeug, welches – mittels Verwendung einer handelsüblichen Fittingpressmaschine – binnen kürzester Zeit, saubere und vor allem normgerecht ausgeführte Löcher in Trockenbau-Ständerprofile stanzt. Die mitgelieferten Clips sorgen für eine hervorragende Führung des Rohres und schützen es vor Verletzungen während des Verlegens. So sparen Installateure Zeit und bares Geld.  
-#### Erleben Sie die einfache Handhabung in folgendem Video:
+#### Erleben Sie die einfache Handhabung von **presssta** in folgendem Video:
 
 {{% video src="Anwendungsvideo-fnf" %}}
 
 
-## So schnell kann‘s gehen – mit presssta!
+## So schnell kann‘s gehen – mit **presssta**!
 
 #### Die Montage auch anspruchsvoller Installationen ist mit __presssta__ normgerecht und rasch erledigt. Damit macht __presssta__ sicher: Mängel durch nicht normgerechte Verlegung gehören der Vergangenheit an.
 
@@ -152,14 +152,13 @@ Reparatur zum Verkäufer zu bringen, da sonst keine die Gewährleistung
 
 ### Stempel oder Matrize gehen nach dem Stanzvorgang nicht in ihre Ausgangsstellung zurück.
 
-Ursache: Pressbolzen klemmt durch Verschmutzung.
-
-Abhilfe: Pressbolzen und Führung reinigen und schmieren mit Schmierfett
+**Ursache:** Pressbolzen klemmt durch Verschmutzung.
+**Abhilfe:** Pressbolzen und Führung reinigen und schmieren mit Schmierfett
 oder Öl.
 
 ### Bei starker Verschmutzung Pressbolzen ausbauen:
 
-1.  Stempel oder/und Matrize entfernen
+1.  Stempel und/oder Matrize entfernen
 2.  Die acht Senkkopfschrauben jeder Führung entfernen und die Führungen
     mit den Pressbolzen nach oben herausziehen.
 3.  Alles gründlich reinigen, gut einfetten (reichlich Fett in den
