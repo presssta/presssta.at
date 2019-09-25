@@ -4,16 +4,16 @@ title = "Impressum"
 
 
 
-__presssta__ ist ein lizensiertes Produkt der ÖKOEFF - Ökoeffiziente Energietechnik GmbH und patentrechtlich bzw. durch Gebrauchs- und Geschmacksmuster geschützt:
-presssta – Aufsatz für eine Pressvorrichtung: EU-Patent EP 2883658 (der österreichische Teil des europäischen Patents trägt die Nummer E931545) 
+__presssta__ ist ein lizensiertes Produkt der **ÖKOEFF - Ökoeffiziente Energietechnik GmbH** und patentrechtlich bzw. durch Gebrauchs- und Geschmacksmuster geschützt:
+**presssta**–Aufsatz für eine Pressvorrichtung: EU-Patent EP 2883658 (der österreichische Teil des europäischen Patents trägt die Nummer E931545) 
 Deutsches Patent Nr. 502014005579.8 (aus EP 2883658)
 
 **ÖKOEFF  
 Ökoeffiziente Energietechnik GmbH**  
 Wagner-Schönkirch-Gasse 9  
 1230 Wien  
-Telefon: +431 295 22 22  
-Telefax: +431 295 22 22 20  
+Telefon: +43 1 295 22 22  
+Telefax: +43 1 295 22 22 20  
 E-Mail: office@oekoeff.at 
 
 Firmenbuchnummer: FN417460m  
