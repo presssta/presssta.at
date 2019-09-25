@@ -22,4 +22,4 @@ Das __presssta__ Pressstanzwerkzeug wird mit dem Standardaufsatz ø 58 mm & 1.00
 Der Clip ist derzeit für den Standarddurchmesser von 58 mm erhältlich, um Rohre inkl. Isolierung bis zu einem Durchmesser von 54 mm zu verlegen.
 
 
-## [Wie ist das presssta-System zu bedienen?]({{% ref "/produkt/anwendung" %}})
+## [Wie ist das **presssta**-System zu bedienen?]({{% ref "/produkt/anwendung" %}})
