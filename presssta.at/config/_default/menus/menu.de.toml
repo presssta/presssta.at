@@ -113,7 +113,7 @@ weight = 30
 
 
 [[action]]
-name = "Partner finden!"
+name = "Presssta kaufen"
 url = "/produkt/bezugsquellen"
 
 

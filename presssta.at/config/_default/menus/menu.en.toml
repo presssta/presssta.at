@@ -103,3 +103,62 @@ name = "Downloads"
 title = "Ich bin eine Navigationsbeschreibung"
 url = "/downloads"
 weight = 30
+
+
+[[action]]
+name = "Buy Presssta"
+url = "/produkt/bezugsquellen"
+
+
+
+
+[[footer1]]
+name = "Unternehmen"
+url = "/unternehmen/philosophie"
+weight = 10
+[[footer1]]
+name = "Datenschutz"
+url = "/unternehmen/datenschutz"
+weight = 20
+[[footer1]]
+name = "Impressum"
+url = "/unternehmen/impressum"
+weight = 30
+[[footer1]]
+name = "AGB"
+url = "/unternehmen/agb"
+weight = 40
+
+[[footer2]]
+name = "Produkt"
+url = "/produkt/anwendung"
+weight = 50
+[[footer2]]
+name = "technische Daten"
+url = "/produkt/technische-daten"
+weight = 60
+[[footer2]]
+name = "Presse"
+url = "/service-news/presse"
+weight = 70
+[[footer2]]
+name = "Bezugsquellen"
+url = "/produkt/bezugsquellen"
+weight = 80
+
+
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com/TODO"
+weight = 10
+[[social]]
+identifier = "facebook"
+name = "Facebook"
+url = "https://facebook.com/TODO"
+weight = 10
+[[social]]
+identifier = "youtube"
+name = "YouTube"
+url = "https://youtube.com/TODO"
+weight = 10
