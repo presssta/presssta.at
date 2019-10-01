@@ -1,6 +1,5 @@
 {{- $path := .Get "path" -}}
 {{- $filepath := print (.Page.File.Dir) $path -}}
-{{- $file := readFile $filepath -}}
 {{- $stat :=  os.Stat $filepath -}}
 {{- $filesize := printf "%.2f" (div $stat.Size 1000000.0) -}}
 {{- $fileext := path.Ext $stat.Name -}}

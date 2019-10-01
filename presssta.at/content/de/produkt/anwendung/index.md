@@ -7,7 +7,7 @@ headline = "Die Anwendung"
 ## Das **presssta**-System ist ein Pressstanzwerkzeug, welches – mittels Verwendung einer handelsüblichen Fittingpressmaschine – binnen kürzester Zeit, saubere und vor allem normgerecht ausgeführte Löcher in Trockenbau-Ständerprofile stanzt. Die mitgelieferten Clips sorgen für eine hervorragende Führung des Rohres und schützen es vor Verletzungen während des Verlegens. So sparen Installateure Zeit und bares Geld.  
 #### Erleben Sie die einfache Handhabung von **presssta** in folgendem Video:
 
-{{% video src="Anwendungsvideo-fnf" %}}
+{{% youtube videoid="wlh__wsvokk" %}}
 
 
 ## So schnell kann‘s gehen – mit **presssta**!
