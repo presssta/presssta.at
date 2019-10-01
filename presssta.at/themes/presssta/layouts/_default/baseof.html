@@ -99,6 +99,26 @@
     $('body').removeClass('nav-opened');
     $('body').addClass('nav-closed');
   })
+  
+  function copy() {
+    let url = document.getElementById('share-url');
+    url.select();
+    url.setSelectionRange(0, 99999);
+    document.execCommand("copy");
+  }
+
+  $('#share-bt').click( function () {
+    $('.share-dialog').show();
+    copy();
+  })
+
+  $('.share-dialog-close').click( function () {
+    $('.share-dialog').hide();
+  });
+
+
+
+  
   </script>
   {{ partial "google-analytics-async.html" . }}
   {{ partial "cookie-consent.html" . }}

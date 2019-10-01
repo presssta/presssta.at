@@ -69,11 +69,18 @@
             </div>
             <div class="actionnav">
               <a href="mailto:info@presssta.at" class="actionnav__icon">
-                <img src="{{ "/mail.svg" | absURL }}" alt="">
+                <img class="actionnav__iconimg" src="{{ "/mail.svg" | absURL }}" alt="">
               </a>
-              <a href="" class="actionnav__icon">
-                <img src="{{ "/share.svg" | absURL }}" alt="">
-              </a>
+              <span class="actionnav__icon">
+                <img class="actionnav__iconimg" src="{{ "/share.svg" | absURL }}" alt="" id="share-bt">
+                <div class="share-dialog" style="display: none;">
+                  <input type="text" id="share-url" class="sharelink" value="{{ .URL | absLangURL }}">
+                  <p>{{ .Site.Params.copylink }}</p>
+                  <p>
+                    <button class="btn btn-primary share-dialog-close">OK</button>
+                  </p>
+                </div>
+              </span>
             </div>
             
             <div class="langnav">

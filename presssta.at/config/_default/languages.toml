@@ -3,8 +3,10 @@
   contentDir = "content/en"
   [en.params]
     description = "English slogan"
+    copylink = "The link to the current page has been copied to your clipboard!"
 [de]
   weight = 1
   contentDir = "content/de"
   [de.params]
     description = "Schnell. Sicher. Stanzen."
+    copylink = "Die Adresse der aktuellen Seite wurde in Ihre Zwischenablage kopiert!"

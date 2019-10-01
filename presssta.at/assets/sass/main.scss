@@ -373,6 +373,48 @@ a {
   .actionnav__icon {
     display: inline-block;
     padding: 8px 7px 4px;
+    @media(min-width: 992px) {
+      position: relative;
+    }
+  }
+  .actionnav__iconimg {
+    cursor: pointer;
+  }
+
+  .share-dialog {
+    position: absolute;
+    z-index: 5;
+    background: #fff;
+    margin-top: 7px;
+    padding: .8em  .8em  0em;
+    right: 0;
+    width: 25em;
+    font-size: .9em;
+    box-shadow: 0 3px 6px rgba(0,0,0,.5);
+    @media(max-width: 991px) {
+      left: 15px;
+      right: 15px;
+      width: 100%;
+      max-width: 25em;
+    }
+    .share-dialog-close {
+      font-size: 1em;
+    }
+    #share-url {
+      width: 100%;
+      border-radius: 3px;
+      margin-bottom: .5em;
+      outline: 0;
+      border: 2px solid $primary-color;
+      padding: .4em;
+      -moz-outline-style: none;
+      &:active, &:focus {
+      }
+      &::selection {
+        color: #fff;
+        background: $primary-color;
+      }
+    }
   }
 }
 
