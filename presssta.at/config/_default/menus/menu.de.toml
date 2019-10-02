@@ -154,21 +154,21 @@ url = "/produkt/bezugsquellen"
 weight = 80
 
 
-[[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com/TODO"
-weight = 10
-[[social]]
-identifier = "facebook"
-name = "Facebook"
-url = "https://facebook.com/TODO"
-weight = 10
-[[social]]
-identifier = "youtube"
-name = "YouTube"
-url = "https://youtube.com/TODO"
-weight = 10
+# [[social]]
+# identifier = "twitter"
+# name = "Twitter"
+# url = "https://twitter.com/TODO"
+# weight = 10
+# [[social]]
+# identifier = "facebook"
+# name = "Facebook"
+# url = "https://facebook.com/TODO"
+# weight = 10
+# [[social]]
+# identifier = "youtube"
+# name = "YouTube"
+# url = "https://youtube.com/TODO"
+# weight = 10
 
 
 
