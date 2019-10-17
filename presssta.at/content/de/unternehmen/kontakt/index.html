@@ -12,9 +12,9 @@ Telefon: <a href="tel:+4312952222">+43 1 295 22 22</a><br>
 Telefax: +43 1 295 22 22 20<br>
 E-Mail: <a href="mailto:office@oekoeff.at">office@oekoeff.at</a> 
 
-<h3>Wir freuen uns von Ihnen zu lesen!</h3>
 
 <form method="post" id="contactform" action="https://mmhd80shdb.execute-api.eu-west-1.amazonaws.com/prod?format=json">
+<h3>Wir freuen uns von Ihnen zu lesen!</h3>
 <input type="hidden" name="_to" value="d1fa6e49a5a6125d8068e6c7093fef800f2771862738bee998190255">
   <div class="form-group row">
     <label for="inputAnrede" class="col-sm-2 col-form-label">Anrede</label>
@@ -84,19 +84,43 @@ E-Mail: <a href="mailto:office@oekoeff.at">office@oekoeff.at</a>
   <input type="text" name="_honeypot" value="" style="display:none">
   <div class="form-group row">  
     <div class="offset-sm-2 col-sm-10">
-      <input class="btn btn-primary" type="submit" name="" value="Senden!">
+      <input id="form-send" class="btn btn-primary" type="submit" name="" value="Senden!">
+      <button id="form-sending" class="btn btn-primary"  style="display: none;" disabled>Sende ...</button>
     </div>
   </div>
 
 </form>
+<div id="form-success" style="display: none;">
+  <h3>Die Nachricht wurde erfolgreich zugestellt!</h3>
+  <p>Wir danken für Ihre Anfrage und werden uns umgehend um Ihr Anliegen bemühen.</p>  
+  <p>Ihr presssta-Team</p>
+</div>
+<div id="form-error" style="display: none;">
+  <p>
+    Leider war die Übertragung der Anfrage nicht erfolgreich. <br>
+    Bitte versuchen Sie es noch einmal oder kontaktieren Sie uns dirket per Email oder Telefon!
+  </p>  
+  <p>Ihr presssta-Team</p>
+</div>
 <script>
 $("#contactform").submit(function(event){
 	event.preventDefault(); //prevent default action 
 	var post_url = $(this).attr("action"); //get form action url
 	var form_data = $(this).serialize(); //Encode form elements for submission
+  $("#form-send").hide();
+  $("#form-sending").show();
 	
 	$.post( post_url, form_data, function( response ) {
-	  $("#server-results").html( response );
+    console.log(response)
+    if( response.statusCode == 200 ) {
+      $("#contactform").slideUp( "fast" );
+      $("#form-error").hide();
+      $("#form-success").show( "slow" );
+    } else {
+      $("#form-error").show( "fast" );
+      $("#form-sending").hide();
+      $("#form-send").show();
+    }
 	});
 });
 </script>
