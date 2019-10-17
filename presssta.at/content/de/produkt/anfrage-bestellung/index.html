@@ -4,8 +4,8 @@ title = "Anfrage/Bestellung"
 
 <h2>Anfrage/Bestellung</h2>
 
-<form method="post" id="contactform" action="https://localhost/test">
-  
+<form method="post" id="contactform" action="https://mmhd80shdb.execute-api.eu-west-1.amazonaws.com/prod?format=json">
+<input type="hidden" name="_to" value="d1fa6e49a5a6125d8068e6c7093fef800f2771862738bee998190255">
   <div class="form-group row">
 
     <label for="inputAnrede" class="col-sm-2 col-form-label">Anfrage</label>
@@ -81,10 +81,11 @@ title = "Anfrage/Bestellung"
   <div class="form-group row">
     <label for="inputMessage" class="col-sm-2 col-form-label">Ihre Nachricht*</label>
     <div class="col-sm-10">
-      <textarea class="form-control" id="message"  id="inputMessage" rows="10" required></textarea>
+      <textarea class="form-control" name="message"  id="inputMessage" rows="10" required></textarea>
     </div>
   </div>
 
+  <input type="text" name="_honeypot" value="" style="display:none">
   <div class="form-group row">  
     <div class="offset-sm-2 col-sm-10">
       <input class="btn btn-primary" type="submit" name="" value="Senden!">
