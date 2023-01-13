@@ -1,0 +1,24 @@
+backend:
+  name: github
+  branch: master
+
+local_backend: true
+
+publish_mode: editorial_workflow
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "default" # Used in routes, e.g., /admin/collections/blog
+    label: "Seite"
+    folder: "content"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Date", name: "date", widget: "datetime"}
+      - {label: "headline", name: "headline", widget: "string"}
+      - {label: "Headline Image", name: "headline", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
