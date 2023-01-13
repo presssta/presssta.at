@@ -5,3 +5,6 @@ title = "presssta"
 
 DefaultContentLanguage = "de"
 DefaultContentLanguageInSubdir  = true
+
+[markup.goldmark.renderer]
+unsafe = true

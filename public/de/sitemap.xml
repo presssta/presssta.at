@@ -1,136 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://presssta.ck.si/de/</loc>
+    <loc>http://localhost:1313/de/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://presssta.ck.si/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://presssta.ck.si/de/"
+                href="http://localhost:1313/de/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/unternehmen/agb/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/produkt/anfrage-bestellung/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/produkt/anfrage-bestellung/erfolg/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/produkt/anfrage-bestellung/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/produkt/anwendung/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/produkt/ausschreibungstexte/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/produkt/bezugsquellen/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/unternehmen/agb/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/produkt/anfrage-bestellung/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/produkt/anwendung/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/produkt/ausschreibungstexte/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/produkt/bezugsquellen/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://presssta.ck.si/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://presssta.ck.si/de/categories/"
+                href="http://localhost:1313/de/categories/"
                 />
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/unternehmen/datenschutz/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/service-news/downloads/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/service-news/presse/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/unternehmen/erfinder/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/produkt/faqs/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/unternehmen/impressum/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/unternehmen/kontakt/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/service-news/news/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/unternehmen/offenlegung/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/unternehmen/philosophie/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/produkt/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/service-news/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/unternehmen/sitemap/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/unternehmen/datenschutz/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/service-news/downloads/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/service-news/presse/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/unternehmen/erfinder/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/produkt/faqs/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/unternehmen/impressum/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/unternehmen/kontakt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/service-news/news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/unternehmen/offenlegung/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/unternehmen/philosophie/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/produkt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/service-news/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/unternehmen/sitemap/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://presssta.ck.si/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://presssta.ck.si/de/tags/"
+                href="http://localhost:1313/de/tags/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/de/produkt/technische-daten/</loc>
+  </url><url>
+    <loc>http://localhost:1313/de/unternehmen/</loc>
   </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/produkt/technische-daten/</loc>
-  </url>
-  
-  <url>
-    <loc>http://presssta.ck.si/de/unternehmen/</loc>
-  </url>
-  
 </urlset>

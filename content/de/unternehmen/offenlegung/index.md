@@ -24,4 +24,4 @@ Wagner-Schönkirch-Gasse 9
 1230 Wien
 
 
-__[Zurück zum Impressum]({{% ref "/unternehmen/impressum" %}})__
+__[Zurück zum Impressum]({{< ref "/unternehmen/impressum" >}})__

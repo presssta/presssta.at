@@ -110,9 +110,9 @@ For a deeper dive see the [hugo docs for syntax highlighting](https://gohugo.io/
 This will format your blockquotes nicely. To use it, put the quote within the shortcode. The `author` argument is optional.
 
 ```
-{{% blockquote author="Laura Ingalls" %}}
+{{< blockquote author="Laura Ingalls" >}}
 I am beginning to learn that it is the sweet, **simple** things of life which are the real ones after all.  
-{{% /blockquote %}}
+{{< /blockquote >}}
 ```
 
 ### `imgAbs`

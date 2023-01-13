@@ -17,37 +17,37 @@ text = "Viel schneller in der Anwendung"
 image = "slider/HB-Start4.jpg"
 +++   
 
-{{% cols %}}
-{{% fact number="10" %}}
+{{< cols >}}
+{{< fact number="10" >}}
 mal schneller<br> in der Anwendung
-{{% /fact %}}
+{{< /fact >}}
 ||
-{{% fact number="X" %}}
+{{< fact number="X" >}}
 fach sicherer<br> ohne scharfe Kanten
-{{% /fact %}}
+{{< /fact >}}
 ||
-{{% fact number="1" %}}
+{{< fact number="1" >}}
 perfektes rundes Loch zur Durchführung der Installation
-{{% /fact %}}
-{{% /cols %}}
+{{< /fact >}}
+{{< /cols >}}
 
-{{% cols %}}
+{{< cols >}}
 
-{{% imagelink image="Start-3er1.jpg" link="/unternehmen/erfinder" %}}
+{{< imagelink image="Start-3er1.jpg" link="/unternehmen/erfinder" >}}
 Die <br>Erfinder
-{{% /imagelink %}}
+{{< /imagelink >}}
 ||
-{{% imagelink image="Start-3er2.jpg" link="/produkt/anwendung" %}}
+{{< imagelink image="Start-3er2.jpg" link="/produkt/anwendung" >}}
 Die <br>Anwendung
-{{% /imagelink %}}
+{{< /imagelink >}}
 ||
-{{% imagelink image="Start-3er3.jpg" link="/produkt/technische-daten" %}}
+{{< imagelink image="Start-3er3.jpg" link="/produkt/technische-daten" >}}
 Die <br>Technik
-{{% /imagelink %}}
+{{< /imagelink >}}
 
-{{% /cols %}}
+{{< /cols >}}
 
 
-{{% quote author="freut sich ein Fachmann" %}}
+{{< quote author="freut sich ein Fachmann" >}}
 „Eine Nassgruppe kann ich statt in einer Stunde nun in 30 Minuten installieren“
-{{% /quote %}}
+{{< /quote >}}

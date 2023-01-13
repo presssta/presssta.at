@@ -1,43 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Service News on presssta</title>
-    <link>http://presssta.ck.si/de/service-news/</link>
+    <link>http://localhost:1313/de/service-news/</link>
     <description>Recent content in Service News on presssta</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language>
-    
-	<atom:link href="http://presssta.ck.si/de/service-news/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>de-DE</language><atom:link href="http://localhost:1313/de/service-news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Downloads</title>
-      <link>http://presssta.ck.si/de/service-news/downloads/</link>
+      <link>http://localhost:1313/de/service-news/downloads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://presssta.ck.si/de/service-news/downloads/</guid>
-      <description>Auf dieser Seite haben wir alle interessanten Informationen rund um presssta für Sie zusammengestellt.
-Produktdatenblatt
-Produktfolder
-Bedienungsanleitung</description>
+      <guid>http://localhost:1313/de/service-news/downloads/</guid>
+      <description>Auf dieser Seite haben wir alle interessanten Informationen rund um presssta für Sie zusammengestellt. </description>
     </item>
     
     <item>
       <title>Downloads</title>
-      <link>http://presssta.ck.si/de/service-news/presse/</link>
+      <link>http://localhost:1313/de/service-news/presse/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://presssta.ck.si/de/service-news/presse/</guid>
+      <guid>http://localhost:1313/de/service-news/presse/</guid>
       <description>TODO</description>
     </item>
     
     <item>
       <title>News</title>
-      <link>http://presssta.ck.si/de/service-news/news/</link>
+      <link>http://localhost:1313/de/service-news/news/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://presssta.ck.si/de/service-news/news/</guid>
-      <description> Hier finden Sie Neuigkeiten, interessantes und lesenswertes rund um die Themen Trockenbau, Installation und natürlich presssta. Durchstöbern Sie auch unser Archiv - vielleicht ist ja noch die ein oder andere Info für Sie dabei. </description>
+      <guid>http://localhost:1313/de/service-news/news/</guid>
+      <description>Hier finden Sie Neuigkeiten, interessantes und lesenswertes rund um die Themen Trockenbau, Installation und natürlich presssta. </description>
     </item>
     
   </channel>

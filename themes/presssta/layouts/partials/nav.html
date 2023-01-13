@@ -7,8 +7,8 @@
     <div class="nav-container container">
       <div class="header__navs">
         
-        <a href="{{ "/" | relLangURL }}" class="header__logo">
-          <img src="{{ .Site.Params.logo  | relURL }}" alt="{{ .Site.Title }} - {{ .Site.Params.description }}" class="logo">          
+        <a href="{{ relLangURL "/" }}" class="header__logo">
+          <img src="{{ relURL .Site.Params.logo   }}" alt="{{ .Site.Title }} - {{ .Site.Params.description }}" class="logo">          
         </a>
 
         <div class="navbar-light">
@@ -19,7 +19,7 @@
                 {{ $currentPage := . }}
                 {{ range .Site.Menus.main }}
                         <li class="mainnav__el {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                            <span class="mainnav__link" href="{{ .URL | absLangURL }}">
+                            <span class="mainnav__link" href="{{ absLangURL .URL }}">
                                 {{ .Pre }}
                                 <span>{{ .Name }}</span>
                             </span>
@@ -28,7 +28,7 @@
                               <ul class="subnav">
                                 {{ range .Children }}
                                 <li class="subnav__el {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                                  <a class="subnav__link" href="{{ .URL | absLangURL }}">
+                                  <a class="subnav__link" href="{{ absLangURL .URL }}">
                                     <div class="subnav__name">
                                       <div class="subnav__name-pos">{{ .Name }}</div>
                                       <div class="subnav__fancy"></div>
@@ -62,7 +62,7 @@
                 <div class="phone-bt__number">01/0000000</div>
               </a> -->
               {{ range .Site.Menus.action }}
-              <a class="phone-bt__link" href="{{ .URL | absLangURL }}">
+              <a class="phone-bt__link" href="{{ absLangURL .URL }}">
                 <div class="phone-bt__number">{{ .Name }}</div>
               </a>
               {{ end }}
@@ -74,7 +74,7 @@
               <span class="actionnav__icon">
                 <img class="actionnav__iconimg" src="{{ "/share.svg" | absURL }}" alt="" id="share-bt">
                 <div class="share-dialog" style="display: none;">
-                  <input type="text" id="share-url" class="sharelink" value="{{ .URL | absLangURL }}">
+                  {{/*<input type="text" id="share-url" class="sharelink" value="{{ absLangURL .URL }}">*/}}
                   <p>{{ .Site.Params.copylink }}</p>
                   <p>
                     <button class="btn btn-primary share-dialog-close">OK</button>

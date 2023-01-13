@@ -11,14 +11,15 @@ public_folder: "/images/uploads"
 
 collections:
   - name: "default" # Used in routes, e.g., /admin/collections/blog
-    label: "Seite"
+    label: "page"
     folder: "content"
+    nested: { depth: 100, summary: '{{meta.path}}'}
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Date", name: "date", widget: "datetime"}
-      - {label: "headline", name: "headline", widget: "string"}
-      - {label: "Headline Image", name: "headline", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Title", name: "title", widget: "string", required: false}
+      - {label: "Date", name: "date", widget: "datetime", required: false}
+      - {label: "headline", name: "headline", widget: "string", required: false}
+      - {label: "Headline Image", name: "headline_image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}

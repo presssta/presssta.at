@@ -33,11 +33,11 @@ BIC OBKLAT2L
 Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: https://ec.europa.eu/consumers/odr
 Unsere E-Mail-Adresse finden Sie oben im Impressum. Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-__[Offenlegung §25 Mediengesetz und §5 E-Commercegesetz]({{% ref "/unternehmen/offenlegung" %}})__
+__[Offenlegung §25 Mediengesetz und §5 E-Commercegesetz]({{< ref "/unternehmen/offenlegung" >}})__
 
-__[Datenschutz]({{% ref "/unternehmen/datenschutz" %}})__
+__[Datenschutz]({{< ref "/unternehmen/datenschutz" >}})__
 
-__[Allgemeine Geschäftsbedingungen]({{% ref "/unternehmen/agb" %}})__
+__[Allgemeine Geschäftsbedingungen]({{< ref "/unternehmen/agb" >}})__
 
 Design: EINFALLSREICH Werbeagentur KG, [www.einfalls-reich.at](https://www.einfalls-reich.at)  
 Programmierung: Andreas Demmelbauer  
